@@ -1,0 +1,1563 @@
+canonical_identifier: bkk:krp/KR6s0064/P/v1/markers/28
+seq: 28
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR6s0064_P_028-0819a03, ed: P, 'n': 0819a03}
+  - {type: 其他, offset: 0, content: 弘利益之曲一, id: KR6s0064_P_028-mulu-1, level: '2'}
+  - {type: xml-element, offset: 5, content: '', id: KR6s0064_P_028-bkkxmlele1, name: note, role: open, attrs: {place: inline}}
+  - {type: indent, offset: 9, content: 　, id: KR6s0064_P_028-bkkind1}
+  - {type: xml-element, offset: 14, content: '', id: KR6s0064_P_028-bkkxmlele2, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 14, content: '', id: KR6s0064_P_028-0819a04, ed: P, 'n': 0819a04}
+  - {type: xml-element, offset: 14, content: '', id: lgP178p0819a0401, name: lg, role: open, attrs: {'xml:id': lgP178p0819a0401, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 31, content: '', id: KR6s0064_P_028-0819a05, ed: P, 'n': 0819a05}
+  - {type: xml-element, offset: 42, content: '', id: KR6s0064_P_028-bkkxmlele3, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 43, content: '', id: KR6s0064_P_028-bkkxmlele4, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 48, content: '', id: KR6s0064_P_028-0819a06, ed: P, 'n': 0819a06}
+  - {type: xml-element, offset: 58, content: '', id: lgP178p0819a0401_end, name: lg, role: close, attrs: {'xml:id': lgP178p0819a0401, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 58, content: '', id: lgP178p0819a0611, name: lg, role: open, attrs: {'xml:id': lgP178p0819a0611, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 58, content: ○, id: KR6s0064_P_028-bkkpn1}
+  - {type: line-break, offset: 64, content: '', id: KR6s0064_P_028-0819a07, ed: P, 'n': 0819a07}
+  - {type: line-break, offset: 81, content: '', id: KR6s0064_P_028-0819a08, ed: P, 'n': 0819a08}
+  - {type: line-break, offset: 98, content: '', id: KR6s0064_P_028-0819a09, ed: P, 'n': 0819a09}
+  - {type: xml-element, offset: 109, content: '', id: KR6s0064_P_028-bkkxmlele5, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 110, content: '', id: KR6s0064_P_028-bkkxmlele6, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 115, content: '', id: KR6s0064_P_028-0819a10, ed: P, 'n': 0819a10}
+  - {type: xml-element, offset: 125, content: '', id: lgP178p0819a0611_end, name: lg, role: close, attrs: {'xml:id': lgP178p0819a0611, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 125, content: '', id: lgP178p0819a1011, name: lg, role: open, attrs: {'xml:id': lgP178p0819a1011, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 125, content: ○, id: KR6s0064_P_028-bkkpn2}
+  - {type: page-break, offset: 131, content: '', id: KR6s0064_P_028-0819b, ed: P, 'n': 0819b, source_xml_id: P178.1611.0819b}
+  - {type: line-break, offset: 131, content: '', id: KR6s0064_P_028-0819b01, ed: P, 'n': 0819b01}
+  - {type: line-break, offset: 148, content: '', id: KR6s0064_P_028-0819b02, ed: P, 'n': 0819b02}
+  - {type: line-break, offset: 165, content: '', id: KR6s0064_P_028-0819b03, ed: P, 'n': 0819b03}
+  - {type: xml-element, offset: 167, content: '', id: KR6s0064_P_028-bkkxmlele7, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 168, content: '', id: KR6s0064_P_028-bkkxmlele8, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 182, content: '', id: KR6s0064_P_028-0819b04, ed: P, 'n': 0819b04}
+  - {type: xml-element, offset: 183, content: '', id: lgP178p0819a1011_end, name: lg, role: close, attrs: {'xml:id': lgP178p0819a1011, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 183, content: '', id: lgP178p0819b0402, name: lg, role: open, attrs: {'xml:id': lgP178p0819b0402, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 183, content: ○, id: KR6s0064_P_028-bkkpn3}
+  - {type: line-break, offset: 198, content: '', id: KR6s0064_P_028-0819b05, ed: P, 'n': 0819b05}
+  - {type: line-break, offset: 215, content: '', id: KR6s0064_P_028-0819b06, ed: P, 'n': 0819b06}
+  - {type: line-break, offset: 232, content: '', id: KR6s0064_P_028-0819b07, ed: P, 'n': 0819b07}
+  - {type: xml-element, offset: 236, content: '', id: KR6s0064_P_028-bkkxmlele9, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 237, content: '', id: KR6s0064_P_028-bkkxmlele10, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 249, content: '', id: KR6s0064_P_028-0819b08, ed: P, 'n': 0819b08}
+  - {type: xml-element, offset: 252, content: '', id: lgP178p0819b0402_end, name: lg, role: close, attrs: {'xml:id': lgP178p0819b0402, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 252, content: '', id: lgP178p0819b0804, name: lg, role: open, attrs: {'xml:id': lgP178p0819b0804, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 252, content: ○, id: KR6s0064_P_028-bkkpn4}
+  - {type: line-break, offset: 265, content: '', id: KR6s0064_P_028-0819b09, ed: P, 'n': 0819b09}
+  - {type: line-break, offset: 282, content: '', id: KR6s0064_P_028-0819b10, ed: P, 'n': 0819b10}
+  - {type: xml-element, offset: 298, content: '', id: KR6s0064_P_028-bkkxmlele11, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 299, content: '', id: KR6s0064_P_028-bkkxmlele12, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 299, content: '', id: KR6s0064_P_028-0820a, ed: P, 'n': 0820a, source_xml_id: P178.1611.0820a}
+  - {type: line-break, offset: 299, content: '', id: KR6s0064_P_028-0820a01, ed: P, 'n': 0820a01}
+  - {type: xml-element, offset: 314, content: '', id: lgP178p0819b0804_end, name: lg, role: close, attrs: {'xml:id': lgP178p0819b0804, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 314, content: '', id: lgP178p0820a0116, name: lg, role: open, attrs: {'xml:id': lgP178p0820a0116, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 314, content: ○, id: KR6s0064_P_028-bkkpn5}
+  - {type: line-break, offset: 315, content: '', id: KR6s0064_P_028-0820a02, ed: P, 'n': 0820a02}
+  - {type: line-break, offset: 332, content: '', id: KR6s0064_P_028-0820a03, ed: P, 'n': 0820a03}
+  - {type: line-break, offset: 349, content: '', id: KR6s0064_P_028-0820a04, ed: P, 'n': 0820a04}
+  - {type: xml-element, offset: 350, content: '', id: KR6s0064_P_028-bkkxmlele13, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 351, content: '', id: KR6s0064_P_028-bkkxmlele14, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 366, content: '', id: lgP178p0820a0116_end, name: lg, role: close, attrs: {'xml:id': lgP178p0820a0116, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 366, content: '', id: KR6s0064_P_028-0820a05, ed: P, 'n': 0820a05}
+  - {type: xml-element, offset: 366, content: '', id: lgP178p0820a0501, name: lg, role: open, attrs: {'xml:id': lgP178p0820a0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 366, content: ○, id: KR6s0064_P_028-bkkpn6}
+  - {type: line-break, offset: 382, content: '', id: KR6s0064_P_028-0820a06, ed: P, 'n': 0820a06}
+  - {type: xml-element, offset: 394, content: '', id: KR6s0064_P_028-bkkxmlele15, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 395, content: '', id: KR6s0064_P_028-bkkxmlele16, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 399, content: '', id: KR6s0064_P_028-0820a07, ed: P, 'n': 0820a07}
+  - {type: xml-element, offset: 410, content: '', id: lgP178p0820a0501_end, name: lg, role: close, attrs: {'xml:id': lgP178p0820a0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 410, content: '', id: lgP178p0820a0712, name: lg, role: open, attrs: {'xml:id': lgP178p0820a0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 410, content: ○, id: KR6s0064_P_028-bkkpn7}
+  - {type: line-break, offset: 415, content: '', id: KR6s0064_P_028-0820a08, ed: P, 'n': 0820a08}
+  - {type: line-break, offset: 432, content: '', id: KR6s0064_P_028-0820a09, ed: P, 'n': 0820a09}
+  - {type: line-break, offset: 449, content: '', id: KR6s0064_P_028-0820a10, ed: P, 'n': 0820a10}
+  - {type: xml-element, offset: 461, content: '', id: KR6s0064_P_028-bkkxmlele17, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 462, content: '', id: KR6s0064_P_028-bkkxmlele18, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 466, content: '', id: KR6s0064_P_028-0820b, ed: P, 'n': 0820b, source_xml_id: P178.1611.0820b}
+  - {type: line-break, offset: 466, content: '', id: KR6s0064_P_028-0820b01, ed: P, 'n': 0820b01}
+  - {type: xml-element, offset: 477, content: '', id: lgP178p0820a0712_end, name: lg, role: close, attrs: {'xml:id': lgP178p0820a0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 477, content: '', id: lgP178p0820b0112, name: lg, role: open, attrs: {'xml:id': lgP178p0820b0112, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 477, content: ○, id: KR6s0064_P_028-bkkpn8}
+  - {type: line-break, offset: 482, content: '', id: KR6s0064_P_028-0820b02, ed: P, 'n': 0820b02}
+  - {type: line-break, offset: 499, content: '', id: KR6s0064_P_028-0820b03, ed: P, 'n': 0820b03}
+  - {type: line-break, offset: 516, content: '', id: KR6s0064_P_028-0820b04, ed: P, 'n': 0820b04}
+  - {type: xml-element, offset: 519, content: '', id: KR6s0064_P_028-bkkxmlele19, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 520, content: '', id: KR6s0064_P_028-bkkxmlele20, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 533, content: '', id: KR6s0064_P_028-0820b05, ed: P, 'n': 0820b05}
+  - {type: xml-element, offset: 535, content: '', id: lgP178p0820b0112_end, name: lg, role: close, attrs: {'xml:id': lgP178p0820b0112, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 535, content: '', id: lgP178p0820b0503, name: lg, role: open, attrs: {'xml:id': lgP178p0820b0503, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 535, content: ○, id: KR6s0064_P_028-bkkpn9}
+  - {type: line-break, offset: 549, content: '', id: KR6s0064_P_028-0820b06, ed: P, 'n': 0820b06}
+  - {type: line-break, offset: 566, content: '', id: KR6s0064_P_028-0820b07, ed: P, 'n': 0820b07}
+  - {type: line-break, offset: 583, content: '', id: KR6s0064_P_028-0820b08, ed: P, 'n': 0820b08}
+  - {type: xml-element, offset: 588, content: '', id: KR6s0064_P_028-bkkxmlele21, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 589, content: '', id: KR6s0064_P_028-bkkxmlele22, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 600, content: '', id: KR6s0064_P_028-0820b09, ed: P, 'n': 0820b09}
+  - {type: xml-element, offset: 604, content: '', id: lgP178p0820b0503_end, name: lg, role: close, attrs: {'xml:id': lgP178p0820b0503, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 604, content: '', id: lgP178p0820b0905, name: lg, role: open, attrs: {'xml:id': lgP178p0820b0905, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 604, content: ○, id: KR6s0064_P_028-bkkpn10}
+  - {type: line-break, offset: 616, content: '', id: KR6s0064_P_028-0820b10, ed: P, 'n': 0820b10}
+  - {type: page-break, offset: 633, content: '', id: KR6s0064_P_028-0821a, ed: P, 'n': 0821a, source_xml_id: P178.1611.0821a}
+  - {type: line-break, offset: 633, content: '', id: KR6s0064_P_028-0821a01, ed: P, 'n': 0821a01}
+  - {type: line-break, offset: 650, content: '', id: KR6s0064_P_028-0821a02, ed: P, 'n': 0821a02}
+  - {type: xml-element, offset: 650, content: '', id: KR6s0064_P_028-bkkxmlele23, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 651, content: '', id: KR6s0064_P_028-bkkxmlele24, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 666, content: '', id: lgP178p0820b0905_end, name: lg, role: close, attrs: {'xml:id': lgP178p0820b0905, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 666, content: '', id: lgP178p0821a0217, name: lg, role: open, attrs: {'xml:id': lgP178p0821a0217, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 666, content: ○, id: KR6s0064_P_028-bkkpn11}
+  - {type: line-break, offset: 666, content: '', id: KR6s0064_P_028-0821a03, ed: P, 'n': 0821a03}
+  - {type: line-break, offset: 683, content: '', id: KR6s0064_P_028-0821a04, ed: P, 'n': 0821a04}
+  - {type: line-break, offset: 700, content: '', id: KR6s0064_P_028-0821a05, ed: P, 'n': 0821a05}
+  - {type: xml-element, offset: 702, content: '', id: KR6s0064_P_028-bkkxmlele25, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 703, content: '', id: KR6s0064_P_028-bkkxmlele26, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 717, content: '', id: KR6s0064_P_028-0821a06, ed: P, 'n': 0821a06}
+  - {type: xml-element, offset: 718, content: '', id: lgP178p0821a0217_end, name: lg, role: close, attrs: {'xml:id': lgP178p0821a0217, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 718, content: '', id: lgP178p0821a0602, name: lg, role: open, attrs: {'xml:id': lgP178p0821a0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 718, content: ○, id: KR6s0064_P_028-bkkpn12}
+  - {type: line-break, offset: 733, content: '', id: KR6s0064_P_028-0821a07, ed: P, 'n': 0821a07}
+  - {type: xml-element, offset: 746, content: '', id: KR6s0064_P_028-bkkxmlele27, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 747, content: '', id: KR6s0064_P_028-bkkxmlele28, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 750, content: '', id: KR6s0064_P_028-0821a08, ed: P, 'n': 0821a08}
+  - {type: xml-element, offset: 762, content: '', id: lgP178p0821a0602_end, name: lg, role: close, attrs: {'xml:id': lgP178p0821a0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 762, content: '', id: lgP178p0821a0813, name: lg, role: open, attrs: {'xml:id': lgP178p0821a0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 762, content: ○, id: KR6s0064_P_028-bkkpn13}
+  - {type: line-break, offset: 766, content: '', id: KR6s0064_P_028-0821a09, ed: P, 'n': 0821a09}
+  - {type: line-break, offset: 783, content: '', id: KR6s0064_P_028-0821a10, ed: P, 'n': 0821a10}
+  - {type: page-break, offset: 800, content: '', id: KR6s0064_P_028-0821b, ed: P, 'n': 0821b, source_xml_id: P178.1611.0821b}
+  - {type: line-break, offset: 800, content: '', id: KR6s0064_P_028-0821b01, ed: P, 'n': 0821b01}
+  - {type: xml-element, offset: 813, content: '', id: KR6s0064_P_028-bkkxmlele29, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 814, content: '', id: KR6s0064_P_028-bkkxmlele30, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 817, content: '', id: KR6s0064_P_028-0821b02, ed: P, 'n': 0821b02}
+  - {type: xml-element, offset: 829, content: '', id: lgP178p0821a0813_end, name: lg, role: close, attrs: {'xml:id': lgP178p0821a0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 829, content: '', id: lgP178p0821b0213, name: lg, role: open, attrs: {'xml:id': lgP178p0821b0213, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 829, content: ○, id: KR6s0064_P_028-bkkpn14}
+  - {type: line-break, offset: 833, content: '', id: KR6s0064_P_028-0821b03, ed: P, 'n': 0821b03}
+  - {type: line-break, offset: 850, content: '', id: KR6s0064_P_028-0821b04, ed: P, 'n': 0821b04}
+  - {type: line-break, offset: 867, content: '', id: KR6s0064_P_028-0821b05, ed: P, 'n': 0821b05}
+  - {type: xml-element, offset: 871, content: '', id: KR6s0064_P_028-bkkxmlele31, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 872, content: '', id: KR6s0064_P_028-bkkxmlele32, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 884, content: '', id: KR6s0064_P_028-0821b06, ed: P, 'n': 0821b06}
+  - {type: xml-element, offset: 887, content: '', id: lgP178p0821b0213_end, name: lg, role: close, attrs: {'xml:id': lgP178p0821b0213, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 887, content: '', id: lgP178p0821b0604, name: lg, role: open, attrs: {'xml:id': lgP178p0821b0604, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 887, content: ○, id: KR6s0064_P_028-bkkpn15}
+  - {type: line-break, offset: 900, content: '', id: KR6s0064_P_028-0821b07, ed: P, 'n': 0821b07}
+  - {type: line-break, offset: 917, content: '', id: KR6s0064_P_028-0821b08, ed: P, 'n': 0821b08}
+  - {type: line-break, offset: 934, content: '', id: KR6s0064_P_028-0821b09, ed: P, 'n': 0821b09}
+  - {type: xml-element, offset: 940, content: '', id: KR6s0064_P_028-bkkxmlele33, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 941, content: '', id: KR6s0064_P_028-bkkxmlele34, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 951, content: '', id: KR6s0064_P_028-0821b10, ed: P, 'n': 0821b10}
+  - {type: xml-element, offset: 956, content: '', id: lgP178p0821b0604_end, name: lg, role: close, attrs: {'xml:id': lgP178p0821b0604, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 956, content: '', id: lgP178p0821b1006, name: lg, role: open, attrs: {'xml:id': lgP178p0821b1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 956, content: ○, id: KR6s0064_P_028-bkkpn16}
+  - {type: page-break, offset: 967, content: '', id: KR6s0064_P_028-0822a, ed: P, 'n': 0822a, source_xml_id: P178.1611.0822a}
+  - {type: line-break, offset: 967, content: '', id: KR6s0064_P_028-0822a01, ed: P, 'n': 0822a01}
+  - {type: line-break, offset: 984, content: '', id: KR6s0064_P_028-0822a02, ed: P, 'n': 0822a02}
+  - {type: line-break, offset: 1001, content: '', id: KR6s0064_P_028-0822a03, ed: P, 'n': 0822a03}
+  - {type: xml-element, offset: 1002, content: '', id: KR6s0064_P_028-bkkxmlele35, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1003, content: '', id: KR6s0064_P_028-bkkxmlele36, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 1018, content: '', id: lgP178p0821b1006_end, name: lg, role: close, attrs: {'xml:id': lgP178p0821b1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 1018, content: '', id: KR6s0064_P_028-0822a04, ed: P, 'n': 0822a04}
+  - {type: xml-element, offset: 1018, content: '', id: lgP178p0822a0401, name: lg, role: open, attrs: {'xml:id': lgP178p0822a0401, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1018, content: ○, id: KR6s0064_P_028-bkkpn17}
+  - {type: line-break, offset: 1034, content: '', id: KR6s0064_P_028-0822a05, ed: P, 'n': 0822a05}
+  - {type: line-break, offset: 1051, content: '', id: KR6s0064_P_028-0822a06, ed: P, 'n': 0822a06}
+  - {type: xml-element, offset: 1054, content: '', id: KR6s0064_P_028-bkkxmlele37, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1055, content: '', id: KR6s0064_P_028-bkkxmlele38, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1068, content: '', id: KR6s0064_P_028-0822a07, ed: P, 'n': 0822a07}
+  - {type: xml-element, offset: 1070, content: '', id: lgP178p0822a0401_end, name: lg, role: close, attrs: {'xml:id': lgP178p0822a0401, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1070, content: '', id: lgP178p0822a0703, name: lg, role: open, attrs: {'xml:id': lgP178p0822a0703, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1070, content: ○, id: KR6s0064_P_028-bkkpn18}
+  - {type: line-break, offset: 1084, content: '', id: KR6s0064_P_028-0822a08, ed: P, 'n': 0822a08}
+  - {type: xml-element, offset: 1097, content: '', id: KR6s0064_P_028-bkkxmlele39, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1098, content: '', id: KR6s0064_P_028-bkkxmlele40, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1101, content: '', id: KR6s0064_P_028-0822a09, ed: P, 'n': 0822a09}
+  - {type: xml-element, offset: 1113, content: '', id: lgP178p0822a0703_end, name: lg, role: close, attrs: {'xml:id': lgP178p0822a0703, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1113, content: '', id: lgP178p0822a0913, name: lg, role: open, attrs: {'xml:id': lgP178p0822a0913, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1113, content: ○, id: KR6s0064_P_028-bkkpn19}
+  - {type: line-break, offset: 1117, content: '', id: KR6s0064_P_028-0822a10, ed: P, 'n': 0822a10}
+  - {type: page-break, offset: 1134, content: '', id: KR6s0064_P_028-0822b, ed: P, 'n': 0822b, source_xml_id: P178.1611.0822b}
+  - {type: line-break, offset: 1134, content: '', id: KR6s0064_P_028-0822b01, ed: P, 'n': 0822b01}
+  - {type: line-break, offset: 1151, content: '', id: KR6s0064_P_028-0822b02, ed: P, 'n': 0822b02}
+  - {type: xml-element, offset: 1164, content: '', id: KR6s0064_P_028-bkkxmlele41, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1165, content: '', id: KR6s0064_P_028-bkkxmlele42, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1168, content: '', id: KR6s0064_P_028-0822b03, ed: P, 'n': 0822b03}
+  - {type: xml-element, offset: 1180, content: '', id: lgP178p0822a0913_end, name: lg, role: close, attrs: {'xml:id': lgP178p0822a0913, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1180, content: '', id: lgP178p0822b0313, name: lg, role: open, attrs: {'xml:id': lgP178p0822b0313, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1180, content: ○, id: KR6s0064_P_028-bkkpn20}
+  - {type: line-break, offset: 1184, content: '', id: KR6s0064_P_028-0822b04, ed: P, 'n': 0822b04}
+  - {type: line-break, offset: 1201, content: '', id: KR6s0064_P_028-0822b05, ed: P, 'n': 0822b05}
+  - {type: line-break, offset: 1218, content: '', id: KR6s0064_P_028-0822b06, ed: P, 'n': 0822b06}
+  - {type: xml-element, offset: 1222, content: '', id: KR6s0064_P_028-bkkxmlele43, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1223, content: '', id: KR6s0064_P_028-bkkxmlele44, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1235, content: '', id: KR6s0064_P_028-0822b07, ed: P, 'n': 0822b07}
+  - {type: xml-element, offset: 1238, content: '', id: lgP178p0822b0313_end, name: lg, role: close, attrs: {'xml:id': lgP178p0822b0313, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1238, content: '', id: lgP178p0822b0704, name: lg, role: open, attrs: {'xml:id': lgP178p0822b0704, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1238, content: ○, id: KR6s0064_P_028-bkkpn21}
+  - {type: line-break, offset: 1251, content: '', id: KR6s0064_P_028-0822b08, ed: P, 'n': 0822b08}
+  - {type: line-break, offset: 1268, content: '', id: KR6s0064_P_028-0822b09, ed: P, 'n': 0822b09}
+  - {type: line-break, offset: 1285, content: '', id: KR6s0064_P_028-0822b10, ed: P, 'n': 0822b10}
+  - {type: xml-element, offset: 1291, content: '', id: KR6s0064_P_028-bkkxmlele45, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1292, content: '', id: KR6s0064_P_028-bkkxmlele46, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 1302, content: '', id: KR6s0064_P_028-0823a, ed: P, 'n': 0823a, source_xml_id: P178.1611.0823a}
+  - {type: line-break, offset: 1302, content: '', id: KR6s0064_P_028-0823a01, ed: P, 'n': 0823a01}
+  - {type: xml-element, offset: 1307, content: '', id: lgP178p0822b0704_end, name: lg, role: close, attrs: {'xml:id': lgP178p0822b0704, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1307, content: '', id: lgP178p0823a0106, name: lg, role: open, attrs: {'xml:id': lgP178p0823a0106, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1307, content: ○, id: KR6s0064_P_028-bkkpn22}
+  - {type: line-break, offset: 1318, content: '', id: KR6s0064_P_028-0823a02, ed: P, 'n': 0823a02}
+  - {type: line-break, offset: 1335, content: '', id: KR6s0064_P_028-0823a03, ed: P, 'n': 0823a03}
+  - {type: line-break, offset: 1352, content: '', id: KR6s0064_P_028-0823a04, ed: P, 'n': 0823a04}
+  - {type: xml-element, offset: 1353, content: '', id: KR6s0064_P_028-bkkxmlele47, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1354, content: '', id: KR6s0064_P_028-bkkxmlele48, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 1369, content: '', id: lgP178p0823a0106_end, name: lg, role: close, attrs: {'xml:id': lgP178p0823a0106, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 1369, content: '', id: KR6s0064_P_028-0823a05, ed: P, 'n': 0823a05}
+  - {type: xml-element, offset: 1369, content: '', id: lgP178p0823a0501, name: lg, role: open, attrs: {'xml:id': lgP178p0823a0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1369, content: ○, id: KR6s0064_P_028-bkkpn23}
+  - {type: line-break, offset: 1385, content: '', id: KR6s0064_P_028-0823a06, ed: P, 'n': 0823a06}
+  - {type: line-break, offset: 1402, content: '', id: KR6s0064_P_028-0823a07, ed: P, 'n': 0823a07}
+  - {type: xml-element, offset: 1405, content: '', id: KR6s0064_P_028-bkkxmlele49, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1406, content: '', id: KR6s0064_P_028-bkkxmlele50, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1419, content: '', id: KR6s0064_P_028-0823a08, ed: P, 'n': 0823a08}
+  - {type: xml-element, offset: 1421, content: '', id: lgP178p0823a0501_end, name: lg, role: close, attrs: {'xml:id': lgP178p0823a0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1421, content: '', id: lgP178p0823a0803, name: lg, role: open, attrs: {'xml:id': lgP178p0823a0803, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1421, content: ○, id: KR6s0064_P_028-bkkpn24}
+  - {type: line-break, offset: 1435, content: '', id: KR6s0064_P_028-0823a09, ed: P, 'n': 0823a09}
+  - {type: xml-element, offset: 1449, content: '', id: KR6s0064_P_028-bkkxmlele51, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1450, content: '', id: KR6s0064_P_028-bkkxmlele52, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1452, content: '', id: KR6s0064_P_028-0823a10, ed: P, 'n': 0823a10}
+  - {type: xml-element, offset: 1465, content: '', id: lgP178p0823a0803_end, name: lg, role: close, attrs: {'xml:id': lgP178p0823a0803, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1465, content: '', id: lgP178p0823a1014, name: lg, role: open, attrs: {'xml:id': lgP178p0823a1014, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1465, content: ○, id: KR6s0064_P_028-bkkpn25}
+  - {type: page-break, offset: 1468, content: '', id: KR6s0064_P_028-0823b, ed: P, 'n': 0823b, source_xml_id: P178.1611.0823b}
+  - {type: line-break, offset: 1468, content: '', id: KR6s0064_P_028-0823b01, ed: P, 'n': 0823b01}
+  - {type: line-break, offset: 1485, content: '', id: KR6s0064_P_028-0823b02, ed: P, 'n': 0823b02}
+  - {type: line-break, offset: 1502, content: '', id: KR6s0064_P_028-0823b03, ed: P, 'n': 0823b03}
+  - {type: xml-element, offset: 1516, content: '', id: KR6s0064_P_028-bkkxmlele53, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1517, content: '', id: KR6s0064_P_028-bkkxmlele54, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1519, content: '', id: KR6s0064_P_028-0823b04, ed: P, 'n': 0823b04}
+  - {type: xml-element, offset: 1532, content: '', id: lgP178p0823a1014_end, name: lg, role: close, attrs: {'xml:id': lgP178p0823a1014, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1532, content: '', id: lgP178p0823b0414, name: lg, role: open, attrs: {'xml:id': lgP178p0823b0414, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1532, content: ○, id: KR6s0064_P_028-bkkpn26}
+  - {type: line-break, offset: 1535, content: '', id: KR6s0064_P_028-0823b05, ed: P, 'n': 0823b05}
+  - {type: line-break, offset: 1552, content: '', id: KR6s0064_P_028-0823b06, ed: P, 'n': 0823b06}
+  - {type: line-break, offset: 1569, content: '', id: KR6s0064_P_028-0823b07, ed: P, 'n': 0823b07}
+  - {type: xml-element, offset: 1574, content: '', id: KR6s0064_P_028-bkkxmlele55, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1575, content: '', id: KR6s0064_P_028-bkkxmlele56, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1586, content: '', id: KR6s0064_P_028-0823b08, ed: P, 'n': 0823b08}
+  - {type: xml-element, offset: 1590, content: '', id: lgP178p0823b0414_end, name: lg, role: close, attrs: {'xml:id': lgP178p0823b0414, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1590, content: '', id: lgP178p0823b0805, name: lg, role: open, attrs: {'xml:id': lgP178p0823b0805, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1590, content: ○, id: KR6s0064_P_028-bkkpn27}
+  - {type: line-break, offset: 1602, content: '', id: KR6s0064_P_028-0823b09, ed: P, 'n': 0823b09}
+  - {type: line-break, offset: 1619, content: '', id: KR6s0064_P_028-0823b10, ed: P, 'n': 0823b10}
+  - {type: page-break, offset: 1636, content: '', id: KR6s0064_P_028-0824a, ed: P, 'n': 0824a, source_xml_id: P178.1611.0824a}
+  - {type: line-break, offset: 1636, content: '', id: KR6s0064_P_028-0824a01, ed: P, 'n': 0824a01}
+  - {type: xml-element, offset: 1643, content: '', id: KR6s0064_P_028-bkkxmlele57, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1644, content: '', id: KR6s0064_P_028-bkkxmlele58, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1653, content: '', id: KR6s0064_P_028-0824a02, ed: P, 'n': 0824a02}
+  - {type: xml-element, offset: 1659, content: '', id: lgP178p0823b0805_end, name: lg, role: close, attrs: {'xml:id': lgP178p0823b0805, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1659, content: '', id: lgP178p0824a0207, name: lg, role: open, attrs: {'xml:id': lgP178p0824a0207, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1659, content: ○, id: KR6s0064_P_028-bkkpn28}
+  - {type: line-break, offset: 1669, content: '', id: KR6s0064_P_028-0824a03, ed: P, 'n': 0824a03}
+  - {type: line-break, offset: 1686, content: '', id: KR6s0064_P_028-0824a04, ed: P, 'n': 0824a04}
+  - {type: line-break, offset: 1703, content: '', id: KR6s0064_P_028-0824a05, ed: P, 'n': 0824a05}
+  - {type: xml-element, offset: 1705, content: '', id: KR6s0064_P_028-bkkxmlele59, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1706, content: '', id: KR6s0064_P_028-bkkxmlele60, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1720, content: '', id: KR6s0064_P_028-0824a06, ed: P, 'n': 0824a06}
+  - {type: xml-element, offset: 1721, content: '', id: lgP178p0824a0207_end, name: lg, role: close, attrs: {'xml:id': lgP178p0824a0207, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1721, content: '', id: lgP178p0824a0602, name: lg, role: open, attrs: {'xml:id': lgP178p0824a0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1721, content: ○, id: KR6s0064_P_028-bkkpn29}
+  - {type: line-break, offset: 1736, content: '', id: KR6s0064_P_028-0824a07, ed: P, 'n': 0824a07}
+  - {type: line-break, offset: 1753, content: '', id: KR6s0064_P_028-0824a08, ed: P, 'n': 0824a08}
+  - {type: xml-element, offset: 1757, content: '', id: KR6s0064_P_028-bkkxmlele61, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1758, content: '', id: KR6s0064_P_028-bkkxmlele62, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1770, content: '', id: KR6s0064_P_028-0824a09, ed: P, 'n': 0824a09}
+  - {type: xml-element, offset: 1773, content: '', id: lgP178p0824a0602_end, name: lg, role: close, attrs: {'xml:id': lgP178p0824a0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1773, content: '', id: lgP178p0824a0904, name: lg, role: open, attrs: {'xml:id': lgP178p0824a0904, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1773, content: ○, id: KR6s0064_P_028-bkkpn30}
+  - {type: line-break, offset: 1786, content: '', id: KR6s0064_P_028-0824a10, ed: P, 'n': 0824a10}
+  - {type: xml-element, offset: 1801, content: '', id: KR6s0064_P_028-bkkxmlele63, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1802, content: '', id: KR6s0064_P_028-bkkxmlele64, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 1803, content: '', id: KR6s0064_P_028-0824b, ed: P, 'n': 0824b, source_xml_id: P178.1611.0824b}
+  - {type: line-break, offset: 1803, content: '', id: KR6s0064_P_028-0824b01, ed: P, 'n': 0824b01}
+  - {type: xml-element, offset: 1817, content: '', id: lgP178p0824a0904_end, name: lg, role: close, attrs: {'xml:id': lgP178p0824a0904, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1817, content: '', id: lgP178p0824b0115, name: lg, role: open, attrs: {'xml:id': lgP178p0824b0115, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1817, content: ○, id: KR6s0064_P_028-bkkpn31}
+  - {type: line-break, offset: 1819, content: '', id: KR6s0064_P_028-0824b02, ed: P, 'n': 0824b02}
+  - {type: line-break, offset: 1836, content: '', id: KR6s0064_P_028-0824b03, ed: P, 'n': 0824b03}
+  - {type: line-break, offset: 1853, content: '', id: KR6s0064_P_028-0824b04, ed: P, 'n': 0824b04}
+  - {type: xml-element, offset: 1868, content: '', id: KR6s0064_P_028-bkkxmlele65, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1869, content: '', id: KR6s0064_P_028-bkkxmlele66, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1870, content: '', id: KR6s0064_P_028-0824b05, ed: P, 'n': 0824b05}
+  - {type: xml-element, offset: 1884, content: '', id: lgP178p0824b0115_end, name: lg, role: close, attrs: {'xml:id': lgP178p0824b0115, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1884, content: '', id: lgP178p0824b0515, name: lg, role: open, attrs: {'xml:id': lgP178p0824b0515, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1884, content: ○, id: KR6s0064_P_028-bkkpn32}
+  - {type: line-break, offset: 1886, content: '', id: KR6s0064_P_028-0824b06, ed: P, 'n': 0824b06}
+  - {type: line-break, offset: 1903, content: '', id: KR6s0064_P_028-0824b07, ed: P, 'n': 0824b07}
+  - {type: line-break, offset: 1920, content: '', id: KR6s0064_P_028-0824b08, ed: P, 'n': 0824b08}
+  - {type: xml-element, offset: 1926, content: '', id: KR6s0064_P_028-bkkxmlele67, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1927, content: '', id: KR6s0064_P_028-bkkxmlele68, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 1937, content: '', id: KR6s0064_P_028-0824b09, ed: P, 'n': 0824b09}
+  - {type: xml-element, offset: 1942, content: '', id: lgP178p0824b0515_end, name: lg, role: close, attrs: {'xml:id': lgP178p0824b0515, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 1942, content: '', id: lgP178p0824b0906, name: lg, role: open, attrs: {'xml:id': lgP178p0824b0906, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 1942, content: ○, id: KR6s0064_P_028-bkkpn33}
+  - {type: line-break, offset: 1953, content: '', id: KR6s0064_P_028-0824b10, ed: P, 'n': 0824b10}
+  - {type: page-break, offset: 1970, content: '', id: KR6s0064_P_028-0825a, ed: P, 'n': 0825a, source_xml_id: P178.1611.0825a}
+  - {type: line-break, offset: 1970, content: '', id: KR6s0064_P_028-0825a01, ed: P, 'n': 0825a01}
+  - {type: line-break, offset: 1987, content: '', id: KR6s0064_P_028-0825a02, ed: P, 'n': 0825a02}
+  - {type: xml-element, offset: 1995, content: '', id: KR6s0064_P_028-bkkxmlele69, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 1996, content: '', id: KR6s0064_P_028-bkkxmlele70, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2004, content: '', id: KR6s0064_P_028-0825a03, ed: P, 'n': 0825a03}
+  - {type: xml-element, offset: 2011, content: '', id: lgP178p0824b0906_end, name: lg, role: close, attrs: {'xml:id': lgP178p0824b0906, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2011, content: '', id: lgP178p0825a0308, name: lg, role: open, attrs: {'xml:id': lgP178p0825a0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2011, content: ○, id: KR6s0064_P_028-bkkpn34}
+  - {type: line-break, offset: 2020, content: '', id: KR6s0064_P_028-0825a04, ed: P, 'n': 0825a04}
+  - {type: line-break, offset: 2037, content: '', id: KR6s0064_P_028-0825a05, ed: P, 'n': 0825a05}
+  - {type: line-break, offset: 2054, content: '', id: KR6s0064_P_028-0825a06, ed: P, 'n': 0825a06}
+  - {type: xml-element, offset: 2057, content: '', id: KR6s0064_P_028-bkkxmlele71, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2058, content: '', id: KR6s0064_P_028-bkkxmlele72, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2071, content: '', id: KR6s0064_P_028-0825a07, ed: P, 'n': 0825a07}
+  - {type: xml-element, offset: 2073, content: '', id: lgP178p0825a0308_end, name: lg, role: close, attrs: {'xml:id': lgP178p0825a0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2073, content: '', id: lgP178p0825a0703, name: lg, role: open, attrs: {'xml:id': lgP178p0825a0703, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2073, content: ○, id: KR6s0064_P_028-bkkpn35}
+  - {type: line-break, offset: 2087, content: '', id: KR6s0064_P_028-0825a08, ed: P, 'n': 0825a08}
+  - {type: line-break, offset: 2104, content: '', id: KR6s0064_P_028-0825a09, ed: P, 'n': 0825a09}
+  - {type: xml-element, offset: 2109, content: '', id: KR6s0064_P_028-bkkxmlele73, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2110, content: '', id: KR6s0064_P_028-bkkxmlele74, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2121, content: '', id: KR6s0064_P_028-0825a10, ed: P, 'n': 0825a10}
+  - {type: xml-element, offset: 2125, content: '', id: lgP178p0825a0703_end, name: lg, role: close, attrs: {'xml:id': lgP178p0825a0703, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2125, content: '', id: lgP178p0825a1005, name: lg, role: open, attrs: {'xml:id': lgP178p0825a1005, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2125, content: ○, id: KR6s0064_P_028-bkkpn36}
+  - {type: page-break, offset: 2137, content: '', id: KR6s0064_P_028-0825b, ed: P, 'n': 0825b, source_xml_id: P178.1611.0825b}
+  - {type: line-break, offset: 2137, content: '', id: KR6s0064_P_028-0825b01, ed: P, 'n': 0825b01}
+  - {type: xml-element, offset: 2153, content: '', id: KR6s0064_P_028-bkkxmlele75, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2154, content: '', id: KR6s0064_P_028-bkkxmlele76, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2154, content: '', id: KR6s0064_P_028-0825b02, ed: P, 'n': 0825b02}
+  - {type: xml-element, offset: 2169, content: '', id: lgP178p0825a1005_end, name: lg, role: close, attrs: {'xml:id': lgP178p0825a1005, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2169, content: '', id: lgP178p0825b0216, name: lg, role: open, attrs: {'xml:id': lgP178p0825b0216, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2169, content: ○, id: KR6s0064_P_028-bkkpn37}
+  - {type: line-break, offset: 2170, content: '', id: KR6s0064_P_028-0825b03, ed: P, 'n': 0825b03}
+  - {type: line-break, offset: 2187, content: '', id: KR6s0064_P_028-0825b04, ed: P, 'n': 0825b04}
+  - {type: line-break, offset: 2204, content: '', id: KR6s0064_P_028-0825b05, ed: P, 'n': 0825b05}
+  - {type: xml-element, offset: 2220, content: '', id: KR6s0064_P_028-bkkxmlele77, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2221, content: '', id: KR6s0064_P_028-bkkxmlele78, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2221, content: '', id: KR6s0064_P_028-0825b06, ed: P, 'n': 0825b06}
+  - {type: xml-element, offset: 2236, content: '', id: lgP178p0825b0216_end, name: lg, role: close, attrs: {'xml:id': lgP178p0825b0216, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2236, content: '', id: lgP178p0825b0616, name: lg, role: open, attrs: {'xml:id': lgP178p0825b0616, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2236, content: ○, id: KR6s0064_P_028-bkkpn38}
+  - {type: line-break, offset: 2237, content: '', id: KR6s0064_P_028-0825b07, ed: P, 'n': 0825b07}
+  - {type: line-break, offset: 2254, content: '', id: KR6s0064_P_028-0825b08, ed: P, 'n': 0825b08}
+  - {type: line-break, offset: 2271, content: '', id: KR6s0064_P_028-0825b09, ed: P, 'n': 0825b09}
+  - {type: xml-element, offset: 2278, content: '', id: KR6s0064_P_028-bkkxmlele79, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2279, content: '', id: KR6s0064_P_028-bkkxmlele80, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2288, content: '', id: KR6s0064_P_028-0825b10, ed: P, 'n': 0825b10}
+  - {type: xml-element, offset: 2294, content: '', id: lgP178p0825b0616_end, name: lg, role: close, attrs: {'xml:id': lgP178p0825b0616, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2294, content: '', id: lgP178p0825b1007, name: lg, role: open, attrs: {'xml:id': lgP178p0825b1007, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2294, content: ○, id: KR6s0064_P_028-bkkpn39}
+  - {type: page-break, offset: 2304, content: '', id: KR6s0064_P_028-0826a, ed: P, 'n': 0826a, source_xml_id: P178.1611.0826a}
+  - {type: line-break, offset: 2304, content: '', id: KR6s0064_P_028-0826a01, ed: P, 'n': 0826a01}
+  - {type: line-break, offset: 2321, content: '', id: KR6s0064_P_028-0826a02, ed: P, 'n': 0826a02}
+  - {type: line-break, offset: 2338, content: '', id: KR6s0064_P_028-0826a03, ed: P, 'n': 0826a03}
+  - {type: xml-element, offset: 2347, content: '', id: KR6s0064_P_028-bkkxmlele81, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2348, content: '', id: KR6s0064_P_028-bkkxmlele82, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2355, content: '', id: KR6s0064_P_028-0826a04, ed: P, 'n': 0826a04}
+  - {type: xml-element, offset: 2363, content: '', id: lgP178p0825b1007_end, name: lg, role: close, attrs: {'xml:id': lgP178p0825b1007, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2363, content: '', id: lgP178p0826a0409, name: lg, role: open, attrs: {'xml:id': lgP178p0826a0409, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2363, content: ○, id: KR6s0064_P_028-bkkpn40}
+  - {type: line-break, offset: 2371, content: '', id: KR6s0064_P_028-0826a05, ed: P, 'n': 0826a05}
+  - {type: line-break, offset: 2388, content: '', id: KR6s0064_P_028-0826a06, ed: P, 'n': 0826a06}
+  - {type: line-break, offset: 2405, content: '', id: KR6s0064_P_028-0826a07, ed: P, 'n': 0826a07}
+  - {type: xml-element, offset: 2409, content: '', id: KR6s0064_P_028-bkkxmlele83, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2410, content: '', id: KR6s0064_P_028-bkkxmlele84, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2422, content: '', id: KR6s0064_P_028-0826a08, ed: P, 'n': 0826a08}
+  - {type: xml-element, offset: 2425, content: '', id: lgP178p0826a0409_end, name: lg, role: close, attrs: {'xml:id': lgP178p0826a0409, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2425, content: '', id: lgP178p0826a0804, name: lg, role: open, attrs: {'xml:id': lgP178p0826a0804, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2425, content: ○, id: KR6s0064_P_028-bkkpn41}
+  - {type: line-break, offset: 2438, content: '', id: KR6s0064_P_028-0826a09, ed: P, 'n': 0826a09}
+  - {type: line-break, offset: 2455, content: '', id: KR6s0064_P_028-0826a10, ed: P, 'n': 0826a10}
+  - {type: xml-element, offset: 2461, content: '', id: KR6s0064_P_028-bkkxmlele85, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2462, content: '', id: KR6s0064_P_028-bkkxmlele86, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 2472, content: '', id: KR6s0064_P_028-0826b, ed: P, 'n': 0826b, source_xml_id: P178.1611.0826b}
+  - {type: line-break, offset: 2472, content: '', id: KR6s0064_P_028-0826b01, ed: P, 'n': 0826b01}
+  - {type: xml-element, offset: 2477, content: '', id: lgP178p0826a0804_end, name: lg, role: close, attrs: {'xml:id': lgP178p0826a0804, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2477, content: '', id: lgP178p0826b0106, name: lg, role: open, attrs: {'xml:id': lgP178p0826b0106, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2477, content: ○, id: KR6s0064_P_028-bkkpn42}
+  - {type: line-break, offset: 2488, content: '', id: KR6s0064_P_028-0826b02, ed: P, 'n': 0826b02}
+  - {type: line-break, offset: 2505, content: '', id: KR6s0064_P_028-0826b03, ed: P, 'n': 0826b03}
+  - {type: xml-element, offset: 2505, content: '', id: KR6s0064_P_028-bkkxmlele87, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2506, content: '', id: KR6s0064_P_028-bkkxmlele88, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 2521, content: '', id: lgP178p0826b0106_end, name: lg, role: close, attrs: {'xml:id': lgP178p0826b0106, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2521, content: '', id: lgP178p0826b0317, name: lg, role: open, attrs: {'xml:id': lgP178p0826b0317, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2521, content: ○, id: KR6s0064_P_028-bkkpn43}
+  - {type: line-break, offset: 2521, content: '', id: KR6s0064_P_028-0826b04, ed: P, 'n': 0826b04}
+  - {type: line-break, offset: 2538, content: '', id: KR6s0064_P_028-0826b05, ed: P, 'n': 0826b05}
+  - {type: line-break, offset: 2555, content: '', id: KR6s0064_P_028-0826b06, ed: P, 'n': 0826b06}
+  - {type: line-break, offset: 2572, content: '', id: KR6s0064_P_028-0826b07, ed: P, 'n': 0826b07}
+  - {type: xml-element, offset: 2572, content: '', id: KR6s0064_P_028-bkkxmlele89, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2573, content: '', id: KR6s0064_P_028-bkkxmlele90, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 2588, content: '', id: lgP178p0826b0317_end, name: lg, role: close, attrs: {'xml:id': lgP178p0826b0317, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2588, content: '', id: lgP178p0826b0717, name: lg, role: open, attrs: {'xml:id': lgP178p0826b0717, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2588, content: ○, id: KR6s0064_P_028-bkkpn44}
+  - {type: line-break, offset: 2588, content: '', id: KR6s0064_P_028-0826b08, ed: P, 'n': 0826b08}
+  - {type: line-break, offset: 2605, content: '', id: KR6s0064_P_028-0826b09, ed: P, 'n': 0826b09}
+  - {type: line-break, offset: 2622, content: '', id: KR6s0064_P_028-0826b10, ed: P, 'n': 0826b10}
+  - {type: xml-element, offset: 2630, content: '', id: KR6s0064_P_028-bkkxmlele91, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2631, content: '', id: KR6s0064_P_028-bkkxmlele92, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 2639, content: '', id: KR6s0064_P_028-0827a, ed: P, 'n': 0827a, source_xml_id: P178.1611.0827a}
+  - {type: line-break, offset: 2639, content: '', id: KR6s0064_P_028-0827a01, ed: P, 'n': 0827a01}
+  - {type: xml-element, offset: 2646, content: '', id: lgP178p0826b0717_end, name: lg, role: close, attrs: {'xml:id': lgP178p0826b0717, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2646, content: '', id: lgP178p0827a0108, name: lg, role: open, attrs: {'xml:id': lgP178p0827a0108, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2646, content: ○, id: KR6s0064_P_028-bkkpn45}
+  - {type: line-break, offset: 2655, content: '', id: KR6s0064_P_028-0827a02, ed: P, 'n': 0827a02}
+  - {type: line-break, offset: 2672, content: '', id: KR6s0064_P_028-0827a03, ed: P, 'n': 0827a03}
+  - {type: line-break, offset: 2689, content: '', id: KR6s0064_P_028-0827a04, ed: P, 'n': 0827a04}
+  - {type: xml-element, offset: 2699, content: '', id: KR6s0064_P_028-bkkxmlele93, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2700, content: '', id: KR6s0064_P_028-bkkxmlele94, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2706, content: '', id: KR6s0064_P_028-0827a05, ed: P, 'n': 0827a05}
+  - {type: xml-element, offset: 2715, content: '', id: lgP178p0827a0108_end, name: lg, role: close, attrs: {'xml:id': lgP178p0827a0108, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2715, content: '', id: lgP178p0827a0510, name: lg, role: open, attrs: {'xml:id': lgP178p0827a0510, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2715, content: ○, id: KR6s0064_P_028-bkkpn46}
+  - {type: line-break, offset: 2722, content: '', id: KR6s0064_P_028-0827a06, ed: P, 'n': 0827a06}
+  - {type: line-break, offset: 2739, content: '', id: KR6s0064_P_028-0827a07, ed: P, 'n': 0827a07}
+  - {type: line-break, offset: 2756, content: '', id: KR6s0064_P_028-0827a08, ed: P, 'n': 0827a08}
+  - {type: xml-element, offset: 2761, content: '', id: KR6s0064_P_028-bkkxmlele95, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2762, content: '', id: KR6s0064_P_028-bkkxmlele96, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2773, content: '', id: KR6s0064_P_028-0827a09, ed: P, 'n': 0827a09}
+  - {type: xml-element, offset: 2777, content: '', id: lgP178p0827a0510_end, name: lg, role: close, attrs: {'xml:id': lgP178p0827a0510, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2777, content: '', id: lgP178p0827a0905, name: lg, role: open, attrs: {'xml:id': lgP178p0827a0905, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2777, content: ○, id: KR6s0064_P_028-bkkpn47}
+  - {type: line-break, offset: 2789, content: '', id: KR6s0064_P_028-0827a10, ed: P, 'n': 0827a10}
+  - {type: page-break, offset: 2806, content: '', id: KR6s0064_P_028-0827b, ed: P, 'n': 0827b, source_xml_id: P178.1611.0827b}
+  - {type: line-break, offset: 2806, content: '', id: KR6s0064_P_028-0827b01, ed: P, 'n': 0827b01}
+  - {type: xml-element, offset: 2813, content: '', id: KR6s0064_P_028-bkkxmlele97, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2814, content: '', id: KR6s0064_P_028-bkkxmlele98, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2823, content: '', id: KR6s0064_P_028-0827b02, ed: P, 'n': 0827b02}
+  - {type: xml-element, offset: 2829, content: '', id: lgP178p0827a0905_end, name: lg, role: close, attrs: {'xml:id': lgP178p0827a0905, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2829, content: '', id: lgP178p0827b0207, name: lg, role: open, attrs: {'xml:id': lgP178p0827b0207, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2829, content: ○, id: KR6s0064_P_028-bkkpn48}
+  - {type: line-break, offset: 2839, content: '', id: KR6s0064_P_028-0827b03, ed: P, 'n': 0827b03}
+  - {type: line-break, offset: 2856, content: '', id: KR6s0064_P_028-0827b04, ed: P, 'n': 0827b04}
+  - {type: xml-element, offset: 2857, content: '', id: KR6s0064_P_028-bkkxmlele99, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2858, content: '', id: KR6s0064_P_028-bkkxmlele100, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 2873, content: '', id: lgP178p0827b0207_end, name: lg, role: close, attrs: {'xml:id': lgP178p0827b0207, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 2873, content: '', id: KR6s0064_P_028-0827b05, ed: P, 'n': 0827b05}
+  - {type: xml-element, offset: 2873, content: '', id: lgP178p0827b0501, name: lg, role: open, attrs: {'xml:id': lgP178p0827b0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2873, content: ○, id: KR6s0064_P_028-bkkpn49}
+  - {type: line-break, offset: 2889, content: '', id: KR6s0064_P_028-0827b06, ed: P, 'n': 0827b06}
+  - {type: line-break, offset: 2906, content: '', id: KR6s0064_P_028-0827b07, ed: P, 'n': 0827b07}
+  - {type: line-break, offset: 2923, content: '', id: KR6s0064_P_028-0827b08, ed: P, 'n': 0827b08}
+  - {type: xml-element, offset: 2924, content: '', id: KR6s0064_P_028-bkkxmlele101, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2925, content: '', id: KR6s0064_P_028-bkkxmlele102, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 2940, content: '', id: lgP178p0827b0501_end, name: lg, role: close, attrs: {'xml:id': lgP178p0827b0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 2940, content: '', id: KR6s0064_P_028-0827b09, ed: P, 'n': 0827b09}
+  - {type: xml-element, offset: 2940, content: '', id: lgP178p0827b0901, name: lg, role: open, attrs: {'xml:id': lgP178p0827b0901, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2940, content: ○, id: KR6s0064_P_028-bkkpn50}
+  - {type: line-break, offset: 2956, content: '', id: KR6s0064_P_028-0827b10, ed: P, 'n': 0827b10}
+  - {type: page-break, offset: 2973, content: '', id: KR6s0064_P_028-0828a, ed: P, 'n': 0828a, source_xml_id: P178.1611.0828a}
+  - {type: line-break, offset: 2973, content: '', id: KR6s0064_P_028-0828a01, ed: P, 'n': 0828a01}
+  - {type: xml-element, offset: 2982, content: '', id: KR6s0064_P_028-bkkxmlele103, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 2983, content: '', id: KR6s0064_P_028-bkkxmlele104, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 2990, content: '', id: KR6s0064_P_028-0828a02, ed: P, 'n': 0828a02}
+  - {type: xml-element, offset: 2998, content: '', id: lgP178p0827b0901_end, name: lg, role: close, attrs: {'xml:id': lgP178p0827b0901, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 2998, content: '', id: lgP178p0828a0209, name: lg, role: open, attrs: {'xml:id': lgP178p0828a0209, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 2998, content: ○, id: KR6s0064_P_028-bkkpn51}
+  - {type: line-break, offset: 3006, content: '', id: KR6s0064_P_028-0828a03, ed: P, 'n': 0828a03}
+  - {type: line-break, offset: 3023, content: '', id: KR6s0064_P_028-0828a04, ed: P, 'n': 0828a04}
+  - {type: line-break, offset: 3040, content: '', id: KR6s0064_P_028-0828a05, ed: P, 'n': 0828a05}
+  - {type: xml-element, offset: 3051, content: '', id: KR6s0064_P_028-bkkxmlele105, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3052, content: '', id: KR6s0064_P_028-bkkxmlele106, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3057, content: '', id: KR6s0064_P_028-0828a06, ed: P, 'n': 0828a06}
+  - {type: xml-element, offset: 3067, content: '', id: lgP178p0828a0209_end, name: lg, role: close, attrs: {'xml:id': lgP178p0828a0209, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3067, content: '', id: lgP178p0828a0611, name: lg, role: open, attrs: {'xml:id': lgP178p0828a0611, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3067, content: ○, id: KR6s0064_P_028-bkkpn52}
+  - {type: line-break, offset: 3073, content: '', id: KR6s0064_P_028-0828a07, ed: P, 'n': 0828a07}
+  - {type: line-break, offset: 3090, content: '', id: KR6s0064_P_028-0828a08, ed: P, 'n': 0828a08}
+  - {type: line-break, offset: 3107, content: '', id: KR6s0064_P_028-0828a09, ed: P, 'n': 0828a09}
+  - {type: xml-element, offset: 3113, content: '', id: KR6s0064_P_028-bkkxmlele107, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3114, content: '', id: KR6s0064_P_028-bkkxmlele108, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3124, content: '', id: KR6s0064_P_028-0828a10, ed: P, 'n': 0828a10}
+  - {type: xml-element, offset: 3129, content: '', id: lgP178p0828a0611_end, name: lg, role: close, attrs: {'xml:id': lgP178p0828a0611, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3129, content: '', id: lgP178p0828a1006, name: lg, role: open, attrs: {'xml:id': lgP178p0828a1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3129, content: ○, id: KR6s0064_P_028-bkkpn53}
+  - {type: page-break, offset: 3140, content: '', id: KR6s0064_P_028-0828b, ed: P, 'n': 0828b, source_xml_id: P178.1611.0828b}
+  - {type: line-break, offset: 3140, content: '', id: KR6s0064_P_028-0828b01, ed: P, 'n': 0828b01}
+  - {type: line-break, offset: 3157, content: '', id: KR6s0064_P_028-0828b02, ed: P, 'n': 0828b02}
+  - {type: xml-element, offset: 3165, content: '', id: KR6s0064_P_028-bkkxmlele109, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3166, content: '', id: KR6s0064_P_028-bkkxmlele110, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3174, content: '', id: KR6s0064_P_028-0828b03, ed: P, 'n': 0828b03}
+  - {type: xml-element, offset: 3181, content: '', id: lgP178p0828a1006_end, name: lg, role: close, attrs: {'xml:id': lgP178p0828a1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3181, content: '', id: lgP178p0828b0308, name: lg, role: open, attrs: {'xml:id': lgP178p0828b0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3181, content: ○, id: KR6s0064_P_028-bkkpn54}
+  - {type: line-break, offset: 3190, content: '', id: KR6s0064_P_028-0828b04, ed: P, 'n': 0828b04}
+  - {type: line-break, offset: 3207, content: '', id: KR6s0064_P_028-0828b05, ed: P, 'n': 0828b05}
+  - {type: xml-element, offset: 3209, content: '', id: KR6s0064_P_028-bkkxmlele111, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3210, content: '', id: KR6s0064_P_028-bkkxmlele112, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3224, content: '', id: KR6s0064_P_028-0828b06, ed: P, 'n': 0828b06}
+  - {type: xml-element, offset: 3225, content: '', id: lgP178p0828b0308_end, name: lg, role: close, attrs: {'xml:id': lgP178p0828b0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3225, content: '', id: lgP178p0828b0602, name: lg, role: open, attrs: {'xml:id': lgP178p0828b0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3225, content: ○, id: KR6s0064_P_028-bkkpn55}
+  - {type: line-break, offset: 3240, content: '', id: KR6s0064_P_028-0828b07, ed: P, 'n': 0828b07}
+  - {type: line-break, offset: 3257, content: '', id: KR6s0064_P_028-0828b08, ed: P, 'n': 0828b08}
+  - {type: line-break, offset: 3274, content: '', id: KR6s0064_P_028-0828b09, ed: P, 'n': 0828b09}
+  - {type: xml-element, offset: 3276, content: '', id: KR6s0064_P_028-bkkxmlele113, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3277, content: '', id: KR6s0064_P_028-bkkxmlele114, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3291, content: '', id: KR6s0064_P_028-0828b10, ed: P, 'n': 0828b10}
+  - {type: xml-element, offset: 3292, content: '', id: lgP178p0828b0602_end, name: lg, role: close, attrs: {'xml:id': lgP178p0828b0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3292, content: '', id: lgP178p0828b1002, name: lg, role: open, attrs: {'xml:id': lgP178p0828b1002, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3292, content: ○, id: KR6s0064_P_028-bkkpn56}
+  - {type: page-break, offset: 3307, content: '', id: KR6s0064_P_028-0829a, ed: P, 'n': 0829a, source_xml_id: P178.1611.0829a}
+  - {type: line-break, offset: 3307, content: '', id: KR6s0064_P_028-0829a01, ed: P, 'n': 0829a01}
+  - {type: line-break, offset: 3324, content: '', id: KR6s0064_P_028-0829a02, ed: P, 'n': 0829a02}
+  - {type: xml-element, offset: 3334, content: '', id: KR6s0064_P_028-bkkxmlele115, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3335, content: '', id: KR6s0064_P_028-bkkxmlele116, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3341, content: '', id: KR6s0064_P_028-0829a03, ed: P, 'n': 0829a03}
+  - {type: xml-element, offset: 3350, content: '', id: lgP178p0828b1002_end, name: lg, role: close, attrs: {'xml:id': lgP178p0828b1002, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3350, content: '', id: lgP178p0829a0310, name: lg, role: open, attrs: {'xml:id': lgP178p0829a0310, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3350, content: ○, id: KR6s0064_P_028-bkkpn57}
+  - {type: line-break, offset: 3357, content: '', id: KR6s0064_P_028-0829a04, ed: P, 'n': 0829a04}
+  - {type: line-break, offset: 3374, content: '', id: KR6s0064_P_028-0829a05, ed: P, 'n': 0829a05}
+  - {type: line-break, offset: 3391, content: '', id: KR6s0064_P_028-0829a06, ed: P, 'n': 0829a06}
+  - {type: xml-element, offset: 3403, content: '', id: KR6s0064_P_028-bkkxmlele117, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3404, content: '', id: KR6s0064_P_028-bkkxmlele118, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3408, content: '', id: KR6s0064_P_028-0829a07, ed: P, 'n': 0829a07}
+  - {type: xml-element, offset: 3419, content: '', id: lgP178p0829a0310_end, name: lg, role: close, attrs: {'xml:id': lgP178p0829a0310, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3419, content: '', id: lgP178p0829a0712, name: lg, role: open, attrs: {'xml:id': lgP178p0829a0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3419, content: ○, id: KR6s0064_P_028-bkkpn58}
+  - {type: line-break, offset: 3424, content: '', id: KR6s0064_P_028-0829a08, ed: P, 'n': 0829a08}
+  - {type: line-break, offset: 3441, content: '', id: KR6s0064_P_028-0829a09, ed: P, 'n': 0829a09}
+  - {type: line-break, offset: 3458, content: '', id: KR6s0064_P_028-0829a10, ed: P, 'n': 0829a10}
+  - {type: xml-element, offset: 3465, content: '', id: KR6s0064_P_028-bkkxmlele119, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3466, content: '', id: KR6s0064_P_028-bkkxmlele120, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 3475, content: '', id: KR6s0064_P_028-0829b, ed: P, 'n': 0829b, source_xml_id: P178.1611.0829b}
+  - {type: line-break, offset: 3475, content: '', id: KR6s0064_P_028-0829b01, ed: P, 'n': 0829b01}
+  - {type: xml-element, offset: 3481, content: '', id: lgP178p0829a0712_end, name: lg, role: close, attrs: {'xml:id': lgP178p0829a0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3481, content: '', id: lgP178p0829b0107, name: lg, role: open, attrs: {'xml:id': lgP178p0829b0107, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3481, content: ○, id: KR6s0064_P_028-bkkpn59}
+  - {type: line-break, offset: 3491, content: '', id: KR6s0064_P_028-0829b02, ed: P, 'n': 0829b02}
+  - {type: variant, offset: 3500, length: 1, content: 己, 北藏: 巳}
+  - {type: line-break, offset: 3508, content: '', id: KR6s0064_P_028-0829b03, ed: P, 'n': 0829b03}
+  - {type: xml-element, offset: 3517, content: '', id: KR6s0064_P_028-bkkxmlele121, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3518, content: '', id: KR6s0064_P_028-bkkxmlele122, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3525, content: '', id: KR6s0064_P_028-0829b04, ed: P, 'n': 0829b04}
+  - {type: xml-element, offset: 3533, content: '', id: lgP178p0829b0107_end, name: lg, role: close, attrs: {'xml:id': lgP178p0829b0107, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3533, content: '', id: lgP178p0829b0409, name: lg, role: open, attrs: {'xml:id': lgP178p0829b0409, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3533, content: ○, id: KR6s0064_P_028-bkkpn60}
+  - {type: line-break, offset: 3541, content: '', id: KR6s0064_P_028-0829b05, ed: P, 'n': 0829b05}
+  - {type: line-break, offset: 3558, content: '', id: KR6s0064_P_028-0829b06, ed: P, 'n': 0829b06}
+  - {type: xml-element, offset: 3561, content: '', id: KR6s0064_P_028-bkkxmlele123, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3562, content: '', id: KR6s0064_P_028-bkkxmlele124, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3575, content: '', id: KR6s0064_P_028-0829b07, ed: P, 'n': 0829b07}
+  - {type: xml-element, offset: 3577, content: '', id: lgP178p0829b0409_end, name: lg, role: close, attrs: {'xml:id': lgP178p0829b0409, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3577, content: '', id: lgP178p0829b0703, name: lg, role: open, attrs: {'xml:id': lgP178p0829b0703, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3577, content: ○, id: KR6s0064_P_028-bkkpn61}
+  - {type: line-break, offset: 3591, content: '', id: KR6s0064_P_028-0829b08, ed: P, 'n': 0829b08}
+  - {type: line-break, offset: 3608, content: '', id: KR6s0064_P_028-0829b09, ed: P, 'n': 0829b09}
+  - {type: line-break, offset: 3625, content: '', id: KR6s0064_P_028-0829b10, ed: P, 'n': 0829b10}
+  - {type: xml-element, offset: 3628, content: '', id: KR6s0064_P_028-bkkxmlele125, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3629, content: '', id: KR6s0064_P_028-bkkxmlele126, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 3642, content: '', id: KR6s0064_P_028-0830a, ed: P, 'n': 0830a, source_xml_id: P178.1611.0830a}
+  - {type: line-break, offset: 3642, content: '', id: KR6s0064_P_028-0830a01, ed: P, 'n': 0830a01}
+  - {type: xml-element, offset: 3644, content: '', id: lgP178p0829b0703_end, name: lg, role: close, attrs: {'xml:id': lgP178p0829b0703, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3644, content: '', id: lgP178p0830a0103, name: lg, role: open, attrs: {'xml:id': lgP178p0830a0103, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3644, content: ○, id: KR6s0064_P_028-bkkpn62}
+  - {type: line-break, offset: 3658, content: '', id: KR6s0064_P_028-0830a02, ed: P, 'n': 0830a02}
+  - {type: line-break, offset: 3675, content: '', id: KR6s0064_P_028-0830a03, ed: P, 'n': 0830a03}
+  - {type: xml-element, offset: 3686, content: '', id: KR6s0064_P_028-bkkxmlele127, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3687, content: '', id: KR6s0064_P_028-bkkxmlele128, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3692, content: '', id: KR6s0064_P_028-0830a04, ed: P, 'n': 0830a04}
+  - {type: xml-element, offset: 3702, content: '', id: lgP178p0830a0103_end, name: lg, role: close, attrs: {'xml:id': lgP178p0830a0103, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3702, content: '', id: lgP178p0830a0411, name: lg, role: open, attrs: {'xml:id': lgP178p0830a0411, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3702, content: ○, id: KR6s0064_P_028-bkkpn63}
+  - {type: line-break, offset: 3708, content: '', id: KR6s0064_P_028-0830a05, ed: P, 'n': 0830a05}
+  - {type: line-break, offset: 3725, content: '', id: KR6s0064_P_028-0830a06, ed: P, 'n': 0830a06}
+  - {type: line-break, offset: 3742, content: '', id: KR6s0064_P_028-0830a07, ed: P, 'n': 0830a07}
+  - {type: xml-element, offset: 3755, content: '', id: KR6s0064_P_028-bkkxmlele129, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3756, content: '', id: KR6s0064_P_028-bkkxmlele130, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3759, content: '', id: KR6s0064_P_028-0830a08, ed: P, 'n': 0830a08}
+  - {type: xml-element, offset: 3771, content: '', id: lgP178p0830a0411_end, name: lg, role: close, attrs: {'xml:id': lgP178p0830a0411, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3771, content: '', id: lgP178p0830a0813, name: lg, role: open, attrs: {'xml:id': lgP178p0830a0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3771, content: ○, id: KR6s0064_P_028-bkkpn64}
+  - {type: line-break, offset: 3775, content: '', id: KR6s0064_P_028-0830a09, ed: P, 'n': 0830a09}
+  - {type: line-break, offset: 3792, content: '', id: KR6s0064_P_028-0830a10, ed: P, 'n': 0830a10}
+  - {type: page-break, offset: 3809, content: '', id: KR6s0064_P_028-0830b, ed: P, 'n': 0830b, source_xml_id: P178.1611.0830b}
+  - {type: line-break, offset: 3809, content: '', id: KR6s0064_P_028-0830b01, ed: P, 'n': 0830b01}
+  - {type: xml-element, offset: 3817, content: '', id: KR6s0064_P_028-bkkxmlele131, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3818, content: '', id: KR6s0064_P_028-bkkxmlele132, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3826, content: '', id: KR6s0064_P_028-0830b02, ed: P, 'n': 0830b02}
+  - {type: xml-element, offset: 3833, content: '', id: lgP178p0830a0813_end, name: lg, role: close, attrs: {'xml:id': lgP178p0830a0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3833, content: '', id: lgP178p0830b0208, name: lg, role: open, attrs: {'xml:id': lgP178p0830b0208, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3833, content: ○, id: KR6s0064_P_028-bkkpn65}
+  - {type: line-break, offset: 3842, content: '', id: KR6s0064_P_028-0830b03, ed: P, 'n': 0830b03}
+  - {type: line-break, offset: 3859, content: '', id: KR6s0064_P_028-0830b04, ed: P, 'n': 0830b04}
+  - {type: xml-element, offset: 3869, content: '', id: KR6s0064_P_028-bkkxmlele133, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3870, content: '', id: KR6s0064_P_028-bkkxmlele134, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3876, content: '', id: KR6s0064_P_028-0830b05, ed: P, 'n': 0830b05}
+  - {type: xml-element, offset: 3885, content: '', id: lgP178p0830b0208_end, name: lg, role: close, attrs: {'xml:id': lgP178p0830b0208, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3885, content: '', id: lgP178p0830b0510, name: lg, role: open, attrs: {'xml:id': lgP178p0830b0510, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3885, content: ○, id: KR6s0064_P_028-bkkpn66}
+  - {type: line-break, offset: 3892, content: '', id: KR6s0064_P_028-0830b06, ed: P, 'n': 0830b06}
+  - {type: line-break, offset: 3909, content: '', id: KR6s0064_P_028-0830b07, ed: P, 'n': 0830b07}
+  - {type: xml-element, offset: 3913, content: '', id: KR6s0064_P_028-bkkxmlele135, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3914, content: '', id: KR6s0064_P_028-bkkxmlele136, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3926, content: '', id: KR6s0064_P_028-0830b08, ed: P, 'n': 0830b08}
+  - {type: xml-element, offset: 3929, content: '', id: lgP178p0830b0510_end, name: lg, role: close, attrs: {'xml:id': lgP178p0830b0510, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3929, content: '', id: lgP178p0830b0804, name: lg, role: open, attrs: {'xml:id': lgP178p0830b0804, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3929, content: ○, id: KR6s0064_P_028-bkkpn67}
+  - {type: line-break, offset: 3942, content: '', id: KR6s0064_P_028-0830b09, ed: P, 'n': 0830b09}
+  - {type: line-break, offset: 3959, content: '', id: KR6s0064_P_028-0830b10, ed: P, 'n': 0830b10}
+  - {type: page-break, offset: 3976, content: '', id: KR6s0064_P_028-0831a, ed: P, 'n': 0831a, source_xml_id: P178.1611.0831a}
+  - {type: line-break, offset: 3976, content: '', id: KR6s0064_P_028-0831a01, ed: P, 'n': 0831a01}
+  - {type: xml-element, offset: 3980, content: '', id: KR6s0064_P_028-bkkxmlele137, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 3981, content: '', id: KR6s0064_P_028-bkkxmlele138, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 3993, content: '', id: KR6s0064_P_028-0831a02, ed: P, 'n': 0831a02}
+  - {type: xml-element, offset: 3996, content: '', id: lgP178p0830b0804_end, name: lg, role: close, attrs: {'xml:id': lgP178p0830b0804, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 3996, content: '', id: lgP178p0831a0204, name: lg, role: open, attrs: {'xml:id': lgP178p0831a0204, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 3996, content: ○, id: KR6s0064_P_028-bkkpn68}
+  - {type: line-break, offset: 4009, content: '', id: KR6s0064_P_028-0831a03, ed: P, 'n': 0831a03}
+  - {type: variant, offset: 4017, length: 1, content: 祛, 北藏: 袪}
+  - {type: line-break, offset: 4026, content: '', id: KR6s0064_P_028-0831a04, ed: P, 'n': 0831a04}
+  - {type: xml-element, offset: 4038, content: '', id: KR6s0064_P_028-bkkxmlele139, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4039, content: '', id: KR6s0064_P_028-bkkxmlele140, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4043, content: '', id: KR6s0064_P_028-0831a05, ed: P, 'n': 0831a05}
+  - {type: xml-element, offset: 4054, content: '', id: lgP178p0831a0204_end, name: lg, role: close, attrs: {'xml:id': lgP178p0831a0204, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4054, content: '', id: lgP178p0831a0512, name: lg, role: open, attrs: {'xml:id': lgP178p0831a0512, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4054, content: ○, id: KR6s0064_P_028-bkkpn69}
+  - {type: line-break, offset: 4059, content: '', id: KR6s0064_P_028-0831a06, ed: P, 'n': 0831a06}
+  - {type: line-break, offset: 4076, content: '', id: KR6s0064_P_028-0831a07, ed: P, 'n': 0831a07}
+  - {type: line-break, offset: 4093, content: '', id: KR6s0064_P_028-0831a08, ed: P, 'n': 0831a08}
+  - {type: xml-element, offset: 4107, content: '', id: KR6s0064_P_028-bkkxmlele141, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4108, content: '', id: KR6s0064_P_028-bkkxmlele142, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4110, content: '', id: KR6s0064_P_028-0831a09, ed: P, 'n': 0831a09}
+  - {type: xml-element, offset: 4123, content: '', id: lgP178p0831a0512_end, name: lg, role: close, attrs: {'xml:id': lgP178p0831a0512, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4123, content: '', id: lgP178p0831a0914, name: lg, role: open, attrs: {'xml:id': lgP178p0831a0914, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4123, content: ○, id: KR6s0064_P_028-bkkpn70}
+  - {type: line-break, offset: 4126, content: '', id: KR6s0064_P_028-0831a10, ed: P, 'n': 0831a10}
+  - {type: page-break, offset: 4143, content: '', id: KR6s0064_P_028-0831b, ed: P, 'n': 0831b, source_xml_id: P178.1611.0831b}
+  - {type: line-break, offset: 4143, content: '', id: KR6s0064_P_028-0831b01, ed: P, 'n': 0831b01}
+  - {type: line-break, offset: 4160, content: '', id: KR6s0064_P_028-0831b02, ed: P, 'n': 0831b02}
+  - {type: xml-element, offset: 4169, content: '', id: KR6s0064_P_028-bkkxmlele143, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4170, content: '', id: KR6s0064_P_028-bkkxmlele144, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4177, content: '', id: KR6s0064_P_028-0831b03, ed: P, 'n': 0831b03}
+  - {type: xml-element, offset: 4185, content: '', id: lgP178p0831a0914_end, name: lg, role: close, attrs: {'xml:id': lgP178p0831a0914, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4185, content: '', id: lgP178p0831b0309, name: lg, role: open, attrs: {'xml:id': lgP178p0831b0309, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4185, content: ○, id: KR6s0064_P_028-bkkpn71}
+  - {type: line-break, offset: 4193, content: '', id: KR6s0064_P_028-0831b04, ed: P, 'n': 0831b04}
+  - {type: line-break, offset: 4210, content: '', id: KR6s0064_P_028-0831b05, ed: P, 'n': 0831b05}
+  - {type: xml-element, offset: 4221, content: '', id: KR6s0064_P_028-bkkxmlele145, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4222, content: '', id: KR6s0064_P_028-bkkxmlele146, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4227, content: '', id: KR6s0064_P_028-0831b06, ed: P, 'n': 0831b06}
+  - {type: xml-element, offset: 4237, content: '', id: lgP178p0831b0309_end, name: lg, role: close, attrs: {'xml:id': lgP178p0831b0309, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4237, content: '', id: lgP178p0831b0611, name: lg, role: open, attrs: {'xml:id': lgP178p0831b0611, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4237, content: ○, id: KR6s0064_P_028-bkkpn72}
+  - {type: line-break, offset: 4243, content: '', id: KR6s0064_P_028-0831b07, ed: P, 'n': 0831b07}
+  - {type: line-break, offset: 4260, content: '', id: KR6s0064_P_028-0831b08, ed: P, 'n': 0831b08}
+  - {type: xml-element, offset: 4265, content: '', id: KR6s0064_P_028-bkkxmlele147, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4266, content: '', id: KR6s0064_P_028-bkkxmlele148, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4277, content: '', id: KR6s0064_P_028-0831b09, ed: P, 'n': 0831b09}
+  - {type: xml-element, offset: 4281, content: '', id: lgP178p0831b0611_end, name: lg, role: close, attrs: {'xml:id': lgP178p0831b0611, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4281, content: '', id: lgP178p0831b0905, name: lg, role: open, attrs: {'xml:id': lgP178p0831b0905, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4281, content: ○, id: KR6s0064_P_028-bkkpn73}
+  - {type: line-break, offset: 4293, content: '', id: KR6s0064_P_028-0831b10, ed: P, 'n': 0831b10}
+  - {type: page-break, offset: 4310, content: '', id: KR6s0064_P_028-0832a, ed: P, 'n': 0832a, source_xml_id: P178.1611.0832a}
+  - {type: line-break, offset: 4310, content: '', id: KR6s0064_P_028-0832a01, ed: P, 'n': 0832a01}
+  - {type: line-break, offset: 4327, content: '', id: KR6s0064_P_028-0832a02, ed: P, 'n': 0832a02}
+  - {type: xml-element, offset: 4332, content: '', id: KR6s0064_P_028-bkkxmlele149, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4333, content: '', id: KR6s0064_P_028-bkkxmlele150, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4344, content: '', id: KR6s0064_P_028-0832a03, ed: P, 'n': 0832a03}
+  - {type: xml-element, offset: 4348, content: '', id: lgP178p0831b0905_end, name: lg, role: close, attrs: {'xml:id': lgP178p0831b0905, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4348, content: '', id: lgP178p0832a0305, name: lg, role: open, attrs: {'xml:id': lgP178p0832a0305, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4348, content: ○, id: KR6s0064_P_028-bkkpn74}
+  - {type: line-break, offset: 4360, content: '', id: KR6s0064_P_028-0832a04, ed: P, 'n': 0832a04}
+  - {type: line-break, offset: 4377, content: '', id: KR6s0064_P_028-0832a05, ed: P, 'n': 0832a05}
+  - {type: xml-element, offset: 4390, content: '', id: KR6s0064_P_028-bkkxmlele151, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4391, content: '', id: KR6s0064_P_028-bkkxmlele152, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4394, content: '', id: KR6s0064_P_028-0832a06, ed: P, 'n': 0832a06}
+  - {type: xml-element, offset: 4406, content: '', id: lgP178p0832a0305_end, name: lg, role: close, attrs: {'xml:id': lgP178p0832a0305, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4406, content: '', id: lgP178p0832a0613, name: lg, role: open, attrs: {'xml:id': lgP178p0832a0613, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4406, content: ○, id: KR6s0064_P_028-bkkpn75}
+  - {type: line-break, offset: 4410, content: '', id: KR6s0064_P_028-0832a07, ed: P, 'n': 0832a07}
+  - {type: line-break, offset: 4427, content: '', id: KR6s0064_P_028-0832a08, ed: P, 'n': 0832a08}
+  - {type: line-break, offset: 4444, content: '', id: KR6s0064_P_028-0832a09, ed: P, 'n': 0832a09}
+  - {type: xml-element, offset: 4459, content: '', id: KR6s0064_P_028-bkkxmlele153, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4460, content: '', id: KR6s0064_P_028-bkkxmlele154, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4461, content: '', id: KR6s0064_P_028-0832a10, ed: P, 'n': 0832a10}
+  - {type: xml-element, offset: 4475, content: '', id: lgP178p0832a0613_end, name: lg, role: close, attrs: {'xml:id': lgP178p0832a0613, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4475, content: '', id: lgP178p0832a1015, name: lg, role: open, attrs: {'xml:id': lgP178p0832a1015, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4475, content: ○, id: KR6s0064_P_028-bkkpn76}
+  - {type: page-break, offset: 4477, content: '', id: KR6s0064_P_028-0832b, ed: P, 'n': 0832b, source_xml_id: P178.1611.0832b}
+  - {type: line-break, offset: 4477, content: '', id: KR6s0064_P_028-0832b01, ed: P, 'n': 0832b01}
+  - {type: line-break, offset: 4494, content: '', id: KR6s0064_P_028-0832b02, ed: P, 'n': 0832b02}
+  - {type: line-break, offset: 4511, content: '', id: KR6s0064_P_028-0832b03, ed: P, 'n': 0832b03}
+  - {type: xml-element, offset: 4521, content: '', id: KR6s0064_P_028-bkkxmlele155, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4522, content: '', id: KR6s0064_P_028-bkkxmlele156, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4528, content: '', id: KR6s0064_P_028-0832b04, ed: P, 'n': 0832b04}
+  - {type: xml-element, offset: 4537, content: '', id: lgP178p0832a1015_end, name: lg, role: close, attrs: {'xml:id': lgP178p0832a1015, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4537, content: '', id: lgP178p0832b0410, name: lg, role: open, attrs: {'xml:id': lgP178p0832b0410, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4537, content: ○, id: KR6s0064_P_028-bkkpn77}
+  - {type: line-break, offset: 4544, content: '', id: KR6s0064_P_028-0832b05, ed: P, 'n': 0832b05}
+  - {type: line-break, offset: 4561, content: '', id: KR6s0064_P_028-0832b06, ed: P, 'n': 0832b06}
+  - {type: xml-element, offset: 4573, content: '', id: KR6s0064_P_028-bkkxmlele157, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4574, content: '', id: KR6s0064_P_028-bkkxmlele158, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4578, content: '', id: KR6s0064_P_028-0832b07, ed: P, 'n': 0832b07}
+  - {type: xml-element, offset: 4589, content: '', id: lgP178p0832b0410_end, name: lg, role: close, attrs: {'xml:id': lgP178p0832b0410, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4589, content: '', id: lgP178p0832b0712, name: lg, role: open, attrs: {'xml:id': lgP178p0832b0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4589, content: ○, id: KR6s0064_P_028-bkkpn78}
+  - {type: line-break, offset: 4594, content: '', id: KR6s0064_P_028-0832b08, ed: P, 'n': 0832b08}
+  - {type: variant, offset: 4601, length: 1, content: 己, 北藏: 已}
+  - {type: line-break, offset: 4611, content: '', id: KR6s0064_P_028-0832b09, ed: P, 'n': 0832b09}
+  - {type: xml-element, offset: 4617, content: '', id: KR6s0064_P_028-bkkxmlele159, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4618, content: '', id: KR6s0064_P_028-bkkxmlele160, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4628, content: '', id: KR6s0064_P_028-0832b10, ed: P, 'n': 0832b10}
+  - {type: xml-element, offset: 4633, content: '', id: lgP178p0832b0712_end, name: lg, role: close, attrs: {'xml:id': lgP178p0832b0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4633, content: '', id: lgP178p0832b1006, name: lg, role: open, attrs: {'xml:id': lgP178p0832b1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4633, content: ○, id: KR6s0064_P_028-bkkpn79}
+  - {type: page-break, offset: 4644, content: '', id: KR6s0064_P_028-0833a, ed: P, 'n': 0833a, source_xml_id: P178.1611.0833a}
+  - {type: line-break, offset: 4644, content: '', id: KR6s0064_P_028-0833a01, ed: P, 'n': 0833a01}
+  - {type: line-break, offset: 4661, content: '', id: KR6s0064_P_028-0833a02, ed: P, 'n': 0833a02}
+  - {type: line-break, offset: 4678, content: '', id: KR6s0064_P_028-0833a03, ed: P, 'n': 0833a03}
+  - {type: xml-element, offset: 4684, content: '', id: KR6s0064_P_028-bkkxmlele161, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4685, content: '', id: KR6s0064_P_028-bkkxmlele162, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4695, content: '', id: KR6s0064_P_028-0833a04, ed: P, 'n': 0833a04}
+  - {type: xml-element, offset: 4700, content: '', id: lgP178p0832b1006_end, name: lg, role: close, attrs: {'xml:id': lgP178p0832b1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4700, content: '', id: lgP178p0833a0406, name: lg, role: open, attrs: {'xml:id': lgP178p0833a0406, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4700, content: ○, id: KR6s0064_P_028-bkkpn80}
+  - {type: line-break, offset: 4711, content: '', id: KR6s0064_P_028-0833a05, ed: P, 'n': 0833a05}
+  - {type: line-break, offset: 4728, content: '', id: KR6s0064_P_028-0833a06, ed: P, 'n': 0833a06}
+  - {type: xml-element, offset: 4742, content: '', id: KR6s0064_P_028-bkkxmlele163, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4743, content: '', id: KR6s0064_P_028-bkkxmlele164, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4745, content: '', id: KR6s0064_P_028-0833a07, ed: P, 'n': 0833a07}
+  - {type: xml-element, offset: 4758, content: '', id: lgP178p0833a0406_end, name: lg, role: close, attrs: {'xml:id': lgP178p0833a0406, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4758, content: '', id: lgP178p0833a0714, name: lg, role: open, attrs: {'xml:id': lgP178p0833a0714, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4758, content: ○, id: KR6s0064_P_028-bkkpn81}
+  - {type: line-break, offset: 4761, content: '', id: KR6s0064_P_028-0833a08, ed: P, 'n': 0833a08}
+  - {type: line-break, offset: 4778, content: '', id: KR6s0064_P_028-0833a09, ed: P, 'n': 0833a09}
+  - {type: line-break, offset: 4795, content: '', id: KR6s0064_P_028-0833a10, ed: P, 'n': 0833a10}
+  - {type: xml-element, offset: 4811, content: '', id: KR6s0064_P_028-bkkxmlele165, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4812, content: '', id: KR6s0064_P_028-bkkxmlele166, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 4812, content: '', id: KR6s0064_P_028-0833b, ed: P, 'n': 0833b, source_xml_id: P178.1611.0833b}
+  - {type: line-break, offset: 4812, content: '', id: KR6s0064_P_028-0833b01, ed: P, 'n': 0833b01}
+  - {type: xml-element, offset: 4827, content: '', id: lgP178p0833a0714_end, name: lg, role: close, attrs: {'xml:id': lgP178p0833a0714, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4827, content: '', id: lgP178p0833b0116, name: lg, role: open, attrs: {'xml:id': lgP178p0833b0116, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4827, content: ○, id: KR6s0064_P_028-bkkpn82}
+  - {type: line-break, offset: 4828, content: '', id: KR6s0064_P_028-0833b02, ed: P, 'n': 0833b02}
+  - {type: line-break, offset: 4845, content: '', id: KR6s0064_P_028-0833b03, ed: P, 'n': 0833b03}
+  - {type: line-break, offset: 4862, content: '', id: KR6s0064_P_028-0833b04, ed: P, 'n': 0833b04}
+  - {type: xml-element, offset: 4873, content: '', id: KR6s0064_P_028-bkkxmlele167, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4874, content: '', id: KR6s0064_P_028-bkkxmlele168, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4879, content: '', id: KR6s0064_P_028-0833b05, ed: P, 'n': 0833b05}
+  - {type: xml-element, offset: 4889, content: '', id: lgP178p0833b0116_end, name: lg, role: close, attrs: {'xml:id': lgP178p0833b0116, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4889, content: '', id: lgP178p0833b0511, name: lg, role: open, attrs: {'xml:id': lgP178p0833b0511, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4889, content: ○, id: KR6s0064_P_028-bkkpn83}
+  - {type: line-break, offset: 4895, content: '', id: KR6s0064_P_028-0833b06, ed: P, 'n': 0833b06}
+  - {type: line-break, offset: 4912, content: '', id: KR6s0064_P_028-0833b07, ed: P, 'n': 0833b07}
+  - {type: xml-element, offset: 4925, content: '', id: KR6s0064_P_028-bkkxmlele169, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4926, content: '', id: KR6s0064_P_028-bkkxmlele170, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 4929, content: '', id: KR6s0064_P_028-0833b08, ed: P, 'n': 0833b08}
+  - {type: xml-element, offset: 4941, content: '', id: lgP178p0833b0511_end, name: lg, role: close, attrs: {'xml:id': lgP178p0833b0511, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4941, content: '', id: lgP178p0833b0813, name: lg, role: open, attrs: {'xml:id': lgP178p0833b0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4941, content: ○, id: KR6s0064_P_028-bkkpn84}
+  - {type: line-break, offset: 4945, content: '', id: KR6s0064_P_028-0833b09, ed: P, 'n': 0833b09}
+  - {type: line-break, offset: 4962, content: '', id: KR6s0064_P_028-0833b10, ed: P, 'n': 0833b10}
+  - {type: xml-element, offset: 4969, content: '', id: KR6s0064_P_028-bkkxmlele171, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 4970, content: '', id: KR6s0064_P_028-bkkxmlele172, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 4979, content: '', id: KR6s0064_P_028-0834a, ed: P, 'n': 0834a, source_xml_id: P178.1611.0834a}
+  - {type: line-break, offset: 4979, content: '', id: KR6s0064_P_028-0834a01, ed: P, 'n': 0834a01}
+  - {type: xml-element, offset: 4985, content: '', id: lgP178p0833b0813_end, name: lg, role: close, attrs: {'xml:id': lgP178p0833b0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 4985, content: '', id: lgP178p0834a0107, name: lg, role: open, attrs: {'xml:id': lgP178p0834a0107, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 4985, content: ○, id: KR6s0064_P_028-bkkpn85}
+  - {type: line-break, offset: 4995, content: '', id: KR6s0064_P_028-0834a02, ed: P, 'n': 0834a02}
+  - {type: line-break, offset: 5012, content: '', id: KR6s0064_P_028-0834a03, ed: P, 'n': 0834a03}
+  - {type: line-break, offset: 5029, content: '', id: KR6s0064_P_028-0834a04, ed: P, 'n': 0834a04}
+  - {type: xml-element, offset: 5036, content: '', id: KR6s0064_P_028-bkkxmlele173, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5037, content: '', id: KR6s0064_P_028-bkkxmlele174, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5046, content: '', id: KR6s0064_P_028-0834a05, ed: P, 'n': 0834a05}
+  - {type: xml-element, offset: 5052, content: '', id: lgP178p0834a0107_end, name: lg, role: close, attrs: {'xml:id': lgP178p0834a0107, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5052, content: '', id: lgP178p0834a0507, name: lg, role: open, attrs: {'xml:id': lgP178p0834a0507, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5052, content: ○, id: KR6s0064_P_028-bkkpn86}
+  - {type: line-break, offset: 5062, content: '', id: KR6s0064_P_028-0834a06, ed: P, 'n': 0834a06}
+  - {type: line-break, offset: 5079, content: '', id: KR6s0064_P_028-0834a07, ed: P, 'n': 0834a07}
+  - {type: xml-element, offset: 5094, content: '', id: KR6s0064_P_028-bkkxmlele175, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5095, content: '', id: KR6s0064_P_028-bkkxmlele176, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5096, content: '', id: KR6s0064_P_028-0834a08, ed: P, 'n': 0834a08}
+  - {type: xml-element, offset: 5110, content: '', id: lgP178p0834a0507_end, name: lg, role: close, attrs: {'xml:id': lgP178p0834a0507, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5110, content: '', id: lgP178p0834a0815, name: lg, role: open, attrs: {'xml:id': lgP178p0834a0815, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5110, content: ○, id: KR6s0064_P_028-bkkpn87}
+  - {type: line-break, offset: 5112, content: '', id: KR6s0064_P_028-0834a09, ed: P, 'n': 0834a09}
+  - {type: line-break, offset: 5129, content: '', id: KR6s0064_P_028-0834a10, ed: P, 'n': 0834a10}
+  - {type: page-break, offset: 5146, content: '', id: KR6s0064_P_028-0834b, ed: P, 'n': 0834b, source_xml_id: P178.1611.0834b}
+  - {type: line-break, offset: 5146, content: '', id: KR6s0064_P_028-0834b01, ed: P, 'n': 0834b01}
+  - {type: line-break, offset: 5163, content: '', id: KR6s0064_P_028-0834b02, ed: P, 'n': 0834b02}
+  - {type: xml-element, offset: 5163, content: '', id: KR6s0064_P_028-bkkxmlele177, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5164, content: '', id: KR6s0064_P_028-bkkxmlele178, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 5179, content: '', id: lgP178p0834a0815_end, name: lg, role: close, attrs: {'xml:id': lgP178p0834a0815, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5179, content: '', id: lgP178p0834b0217, name: lg, role: open, attrs: {'xml:id': lgP178p0834b0217, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5179, content: ○, id: KR6s0064_P_028-bkkpn88}
+  - {type: line-break, offset: 5179, content: '', id: KR6s0064_P_028-0834b03, ed: P, 'n': 0834b03}
+  - {type: line-break, offset: 5196, content: '', id: KR6s0064_P_028-0834b04, ed: P, 'n': 0834b04}
+  - {type: line-break, offset: 5213, content: '', id: KR6s0064_P_028-0834b05, ed: P, 'n': 0834b05}
+  - {type: xml-element, offset: 5225, content: '', id: KR6s0064_P_028-bkkxmlele179, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5226, content: '', id: KR6s0064_P_028-bkkxmlele180, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5230, content: '', id: KR6s0064_P_028-0834b06, ed: P, 'n': 0834b06}
+  - {type: xml-element, offset: 5241, content: '', id: lgP178p0834b0217_end, name: lg, role: close, attrs: {'xml:id': lgP178p0834b0217, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5241, content: '', id: lgP178p0834b0612, name: lg, role: open, attrs: {'xml:id': lgP178p0834b0612, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5241, content: ○, id: KR6s0064_P_028-bkkpn89}
+  - {type: line-break, offset: 5246, content: '', id: KR6s0064_P_028-0834b07, ed: P, 'n': 0834b07}
+  - {type: line-break, offset: 5263, content: '', id: KR6s0064_P_028-0834b08, ed: P, 'n': 0834b08}
+  - {type: xml-element, offset: 5277, content: '', id: KR6s0064_P_028-bkkxmlele181, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5278, content: '', id: KR6s0064_P_028-bkkxmlele182, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5280, content: '', id: KR6s0064_P_028-0834b09, ed: P, 'n': 0834b09}
+  - {type: xml-element, offset: 5293, content: '', id: lgP178p0834b0612_end, name: lg, role: close, attrs: {'xml:id': lgP178p0834b0612, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5293, content: '', id: lgP178p0834b0914, name: lg, role: open, attrs: {'xml:id': lgP178p0834b0914, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5293, content: ○, id: KR6s0064_P_028-bkkpn90}
+  - {type: line-break, offset: 5296, content: '', id: KR6s0064_P_028-0834b10, ed: P, 'n': 0834b10}
+  - {type: page-break, offset: 5313, content: '', id: KR6s0064_P_028-0835a, ed: P, 'n': 0835a, source_xml_id: P178.1611.0835a}
+  - {type: line-break, offset: 5313, content: '', id: KR6s0064_P_028-0835a01, ed: P, 'n': 0835a01}
+  - {type: xml-element, offset: 5321, content: '', id: KR6s0064_P_028-bkkxmlele183, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5322, content: '', id: KR6s0064_P_028-bkkxmlele184, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5330, content: '', id: KR6s0064_P_028-0835a02, ed: P, 'n': 0835a02}
+  - {type: xml-element, offset: 5337, content: '', id: lgP178p0834b0914_end, name: lg, role: close, attrs: {'xml:id': lgP178p0834b0914, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5337, content: '', id: lgP178p0835a0208, name: lg, role: open, attrs: {'xml:id': lgP178p0835a0208, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5337, content: ○, id: KR6s0064_P_028-bkkpn91}
+  - {type: line-break, offset: 5346, content: '', id: KR6s0064_P_028-0835a03, ed: P, 'n': 0835a03}
+  - {type: line-break, offset: 5363, content: '', id: KR6s0064_P_028-0835a04, ed: P, 'n': 0835a04}
+  - {type: line-break, offset: 5380, content: '', id: KR6s0064_P_028-0835a05, ed: P, 'n': 0835a05}
+  - {type: xml-element, offset: 5388, content: '', id: KR6s0064_P_028-bkkxmlele185, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5389, content: '', id: KR6s0064_P_028-bkkxmlele186, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5397, content: '', id: KR6s0064_P_028-0835a06, ed: P, 'n': 0835a06}
+  - {type: xml-element, offset: 5404, content: '', id: lgP178p0835a0208_end, name: lg, role: close, attrs: {'xml:id': lgP178p0835a0208, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5404, content: '', id: lgP178p0835a0608, name: lg, role: open, attrs: {'xml:id': lgP178p0835a0608, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5404, content: ○, id: KR6s0064_P_028-bkkpn92}
+  - {type: line-break, offset: 5413, content: '', id: KR6s0064_P_028-0835a07, ed: P, 'n': 0835a07}
+  - {type: line-break, offset: 5430, content: '', id: KR6s0064_P_028-0835a08, ed: P, 'n': 0835a08}
+  - {type: xml-element, offset: 5446, content: '', id: KR6s0064_P_028-bkkxmlele187, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5447, content: '', id: KR6s0064_P_028-bkkxmlele188, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5447, content: '', id: KR6s0064_P_028-0835a09, ed: P, 'n': 0835a09}
+  - {type: xml-element, offset: 5462, content: '', id: lgP178p0835a0608_end, name: lg, role: close, attrs: {'xml:id': lgP178p0835a0608, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5462, content: '', id: lgP178p0835a0916, name: lg, role: open, attrs: {'xml:id': lgP178p0835a0916, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5462, content: ○, id: KR6s0064_P_028-bkkpn93}
+  - {type: line-break, offset: 5463, content: '', id: KR6s0064_P_028-0835a10, ed: P, 'n': 0835a10}
+  - {type: page-break, offset: 5480, content: '', id: KR6s0064_P_028-0835b, ed: P, 'n': 0835b, source_xml_id: P178.1611.0835b}
+  - {type: line-break, offset: 5480, content: '', id: KR6s0064_P_028-0835b01, ed: P, 'n': 0835b01}
+  - {type: line-break, offset: 5497, content: '', id: KR6s0064_P_028-0835b02, ed: P, 'n': 0835b02}
+  - {type: line-break, offset: 5514, content: '', id: KR6s0064_P_028-0835b03, ed: P, 'n': 0835b03}
+  - {type: xml-element, offset: 5514, content: '', id: KR6s0064_P_028-bkkxmlele189, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5515, content: '', id: KR6s0064_P_028-bkkxmlele190, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 5530, content: '', id: lgP178p0835a0916_end, name: lg, role: close, attrs: {'xml:id': lgP178p0835a0916, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5530, content: '', id: lgP178p0835b0317, name: lg, role: open, attrs: {'xml:id': lgP178p0835b0317, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5530, content: ○, id: KR6s0064_P_028-bkkpn94}
+  - {type: line-break, offset: 5530, content: '', id: KR6s0064_P_028-0835b04, ed: P, 'n': 0835b04}
+  - {type: line-break, offset: 5547, content: '', id: KR6s0064_P_028-0835b05, ed: P, 'n': 0835b05}
+  - {type: line-break, offset: 5564, content: '', id: KR6s0064_P_028-0835b06, ed: P, 'n': 0835b06}
+  - {type: xml-element, offset: 5576, content: '', id: KR6s0064_P_028-bkkxmlele191, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5577, content: '', id: KR6s0064_P_028-bkkxmlele192, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5581, content: '', id: KR6s0064_P_028-0835b07, ed: P, 'n': 0835b07}
+  - {type: xml-element, offset: 5592, content: '', id: lgP178p0835b0317_end, name: lg, role: close, attrs: {'xml:id': lgP178p0835b0317, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5592, content: '', id: lgP178p0835b0712, name: lg, role: open, attrs: {'xml:id': lgP178p0835b0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5592, content: ○, id: KR6s0064_P_028-bkkpn95}
+  - {type: line-break, offset: 5597, content: '', id: KR6s0064_P_028-0835b08, ed: P, 'n': 0835b08}
+  - {type: line-break, offset: 5614, content: '', id: KR6s0064_P_028-0835b09, ed: P, 'n': 0835b09}
+  - {type: xml-element, offset: 5628, content: '', id: KR6s0064_P_028-bkkxmlele193, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5629, content: '', id: KR6s0064_P_028-bkkxmlele194, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5631, content: '', id: KR6s0064_P_028-0835b10, ed: P, 'n': 0835b10}
+  - {type: xml-element, offset: 5644, content: '', id: lgP178p0835b0712_end, name: lg, role: close, attrs: {'xml:id': lgP178p0835b0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5644, content: '', id: lgP178p0835b1014, name: lg, role: open, attrs: {'xml:id': lgP178p0835b1014, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5644, content: ○, id: KR6s0064_P_028-bkkpn96}
+  - {type: page-break, offset: 5647, content: '', id: KR6s0064_P_028-0836a, ed: P, 'n': 0836a, source_xml_id: P178.1611.0836a}
+  - {type: line-break, offset: 5647, content: '', id: KR6s0064_P_028-0836a01, ed: P, 'n': 0836a01}
+  - {type: line-break, offset: 5664, content: '', id: KR6s0064_P_028-0836a02, ed: P, 'n': 0836a02}
+  - {type: xml-element, offset: 5672, content: '', id: KR6s0064_P_028-bkkxmlele195, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5673, content: '', id: KR6s0064_P_028-bkkxmlele196, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5681, content: '', id: KR6s0064_P_028-0836a03, ed: P, 'n': 0836a03}
+  - {type: xml-element, offset: 5688, content: '', id: lgP178p0835b1014_end, name: lg, role: close, attrs: {'xml:id': lgP178p0835b1014, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5688, content: '', id: lgP178p0836a0308, name: lg, role: open, attrs: {'xml:id': lgP178p0836a0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5688, content: ○, id: KR6s0064_P_028-bkkpn97}
+  - {type: line-break, offset: 5697, content: '', id: KR6s0064_P_028-0836a04, ed: P, 'n': 0836a04}
+  - {type: line-break, offset: 5714, content: '', id: KR6s0064_P_028-0836a05, ed: P, 'n': 0836a05}
+  - {type: line-break, offset: 5731, content: '', id: KR6s0064_P_028-0836a06, ed: P, 'n': 0836a06}
+  - {type: xml-element, offset: 5739, content: '', id: KR6s0064_P_028-bkkxmlele197, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5740, content: '', id: KR6s0064_P_028-bkkxmlele198, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5748, content: '', id: KR6s0064_P_028-0836a07, ed: P, 'n': 0836a07}
+  - {type: xml-element, offset: 5755, content: '', id: lgP178p0836a0308_end, name: lg, role: close, attrs: {'xml:id': lgP178p0836a0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5755, content: '', id: lgP178p0836a0708, name: lg, role: open, attrs: {'xml:id': lgP178p0836a0708, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5755, content: ○, id: KR6s0064_P_028-bkkpn98}
+  - {type: line-break, offset: 5764, content: '', id: KR6s0064_P_028-0836a08, ed: P, 'n': 0836a08}
+  - {type: line-break, offset: 5781, content: '', id: KR6s0064_P_028-0836a09, ed: P, 'n': 0836a09}
+  - {type: xml-element, offset: 5797, content: '', id: KR6s0064_P_028-bkkxmlele199, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5798, content: '', id: KR6s0064_P_028-bkkxmlele200, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5798, content: '', id: KR6s0064_P_028-0836a10, ed: P, 'n': 0836a10}
+  - {type: xml-element, offset: 5813, content: '', id: lgP178p0836a0708_end, name: lg, role: close, attrs: {'xml:id': lgP178p0836a0708, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5813, content: '', id: lgP178p0836a1016, name: lg, role: open, attrs: {'xml:id': lgP178p0836a1016, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5813, content: ○, id: KR6s0064_P_028-bkkpn99}
+  - {type: page-break, offset: 5814, content: '', id: KR6s0064_P_028-0836b, ed: P, 'n': 0836b, source_xml_id: P178.1611.0836b}
+  - {type: line-break, offset: 5814, content: '', id: KR6s0064_P_028-0836b01, ed: P, 'n': 0836b01}
+  - {type: line-break, offset: 5831, content: '', id: KR6s0064_P_028-0836b02, ed: P, 'n': 0836b02}
+  - {type: line-break, offset: 5848, content: '', id: KR6s0064_P_028-0836b03, ed: P, 'n': 0836b03}
+  - {type: line-break, offset: 5865, content: '', id: KR6s0064_P_028-0836b04, ed: P, 'n': 0836b04}
+  - {type: xml-element, offset: 5866, content: '', id: KR6s0064_P_028-bkkxmlele201, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5867, content: '', id: KR6s0064_P_028-bkkxmlele202, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 5882, content: '', id: lgP178p0836a1016_end, name: lg, role: close, attrs: {'xml:id': lgP178p0836a1016, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 5882, content: '', id: KR6s0064_P_028-0836b05, ed: P, 'n': 0836b05}
+  - {type: xml-element, offset: 5882, content: '', id: lgP178p0836b0501, name: lg, role: open, attrs: {'xml:id': lgP178p0836b0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5882, content: ○, id: KR6s0064_P_028-bkkpn100}
+  - {type: line-break, offset: 5898, content: '', id: KR6s0064_P_028-0836b06, ed: P, 'n': 0836b06}
+  - {type: line-break, offset: 5915, content: '', id: KR6s0064_P_028-0836b07, ed: P, 'n': 0836b07}
+  - {type: xml-element, offset: 5928, content: '', id: KR6s0064_P_028-bkkxmlele203, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5929, content: '', id: KR6s0064_P_028-bkkxmlele204, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 5932, content: '', id: KR6s0064_P_028-0836b08, ed: P, 'n': 0836b08}
+  - {type: xml-element, offset: 5944, content: '', id: lgP178p0836b0501_end, name: lg, role: close, attrs: {'xml:id': lgP178p0836b0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5944, content: '', id: lgP178p0836b0813, name: lg, role: open, attrs: {'xml:id': lgP178p0836b0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5944, content: ○, id: KR6s0064_P_028-bkkpn101}
+  - {type: line-break, offset: 5948, content: '', id: KR6s0064_P_028-0836b09, ed: P, 'n': 0836b09}
+  - {type: line-break, offset: 5965, content: '', id: KR6s0064_P_028-0836b10, ed: P, 'n': 0836b10}
+  - {type: xml-element, offset: 5980, content: '', id: KR6s0064_P_028-bkkxmlele205, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 5981, content: '', id: KR6s0064_P_028-bkkxmlele206, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 5982, content: '', id: KR6s0064_P_028-0837a, ed: P, 'n': 0837a, source_xml_id: P178.1611.0837a}
+  - {type: line-break, offset: 5982, content: '', id: KR6s0064_P_028-0837a01, ed: P, 'n': 0837a01}
+  - {type: xml-element, offset: 5996, content: '', id: lgP178p0836b0813_end, name: lg, role: close, attrs: {'xml:id': lgP178p0836b0813, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 5996, content: '', id: lgP178p0837a0115, name: lg, role: open, attrs: {'xml:id': lgP178p0837a0115, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 5996, content: ○, id: KR6s0064_P_028-bkkpn102}
+  - {type: line-break, offset: 5998, content: '', id: KR6s0064_P_028-0837a02, ed: P, 'n': 0837a02}
+  - {type: line-break, offset: 6015, content: '', id: KR6s0064_P_028-0837a03, ed: P, 'n': 0837a03}
+  - {type: xml-element, offset: 6024, content: '', id: KR6s0064_P_028-bkkxmlele207, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6025, content: '', id: KR6s0064_P_028-bkkxmlele208, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6032, content: '', id: KR6s0064_P_028-0837a04, ed: P, 'n': 0837a04}
+  - {type: xml-element, offset: 6040, content: '', id: lgP178p0837a0115_end, name: lg, role: close, attrs: {'xml:id': lgP178p0837a0115, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6040, content: '', id: lgP178p0837a0409, name: lg, role: open, attrs: {'xml:id': lgP178p0837a0409, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6040, content: ○, id: KR6s0064_P_028-bkkpn103}
+  - {type: line-break, offset: 6048, content: '', id: KR6s0064_P_028-0837a05, ed: P, 'n': 0837a05}
+  - {type: variant, offset: 6055, length: 1, content: 𤑔, 北藏: 󵗊}
+  - {type: line-break, offset: 6065, content: '', id: KR6s0064_P_028-0837a06, ed: P, 'n': 0837a06}
+  - {type: line-break, offset: 6082, content: '', id: KR6s0064_P_028-0837a07, ed: P, 'n': 0837a07}
+  - {type: xml-element, offset: 6091, content: '', id: KR6s0064_P_028-bkkxmlele209, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6092, content: '', id: KR6s0064_P_028-bkkxmlele210, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6099, content: '', id: KR6s0064_P_028-0837a08, ed: P, 'n': 0837a08}
+  - {type: xml-element, offset: 6107, content: '', id: lgP178p0837a0409_end, name: lg, role: close, attrs: {'xml:id': lgP178p0837a0409, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6107, content: '', id: lgP178p0837a0809, name: lg, role: open, attrs: {'xml:id': lgP178p0837a0809, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6107, content: ○, id: KR6s0064_P_028-bkkpn104}
+  - {type: line-break, offset: 6115, content: '', id: KR6s0064_P_028-0837a09, ed: P, 'n': 0837a09}
+  - {type: line-break, offset: 6132, content: '', id: KR6s0064_P_028-0837a10, ed: P, 'n': 0837a10}
+  - {type: page-break, offset: 6149, content: '', id: KR6s0064_P_028-0837b, ed: P, 'n': 0837b, source_xml_id: P178.1611.0837b}
+  - {type: line-break, offset: 6149, content: '', id: KR6s0064_P_028-0837b01, ed: P, 'n': 0837b01}
+  - {type: xml-element, offset: 6149, content: '', id: KR6s0064_P_028-bkkxmlele211, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6150, content: '', id: KR6s0064_P_028-bkkxmlele212, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 6165, content: '', id: lgP178p0837a0809_end, name: lg, role: close, attrs: {'xml:id': lgP178p0837a0809, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6165, content: '', id: lgP178p0837b0117, name: lg, role: open, attrs: {'xml:id': lgP178p0837b0117, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6165, content: ○, id: KR6s0064_P_028-bkkpn105}
+  - {type: line-break, offset: 6165, content: '', id: KR6s0064_P_028-0837b02, ed: P, 'n': 0837b02}
+  - {type: line-break, offset: 6182, content: '', id: KR6s0064_P_028-0837b03, ed: P, 'n': 0837b03}
+  - {type: line-break, offset: 6199, content: '', id: KR6s0064_P_028-0837b04, ed: P, 'n': 0837b04}
+  - {type: line-break, offset: 6216, content: '', id: KR6s0064_P_028-0837b05, ed: P, 'n': 0837b05}
+  - {type: xml-element, offset: 6218, content: '', id: KR6s0064_P_028-bkkxmlele213, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6219, content: '', id: KR6s0064_P_028-bkkxmlele214, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6233, content: '', id: KR6s0064_P_028-0837b06, ed: P, 'n': 0837b06}
+  - {type: xml-element, offset: 6234, content: '', id: lgP178p0837b0117_end, name: lg, role: close, attrs: {'xml:id': lgP178p0837b0117, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6234, content: '', id: lgP178p0837b0602, name: lg, role: open, attrs: {'xml:id': lgP178p0837b0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6234, content: ○, id: KR6s0064_P_028-bkkpn106}
+  - {type: line-break, offset: 6249, content: '', id: KR6s0064_P_028-0837b07, ed: P, 'n': 0837b07}
+  - {type: line-break, offset: 6266, content: '', id: KR6s0064_P_028-0837b08, ed: P, 'n': 0837b08}
+  - {type: xml-element, offset: 6280, content: '', id: KR6s0064_P_028-bkkxmlele215, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6281, content: '', id: KR6s0064_P_028-bkkxmlele216, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6283, content: '', id: KR6s0064_P_028-0837b09, ed: P, 'n': 0837b09}
+  - {type: xml-element, offset: 6296, content: '', id: lgP178p0837b0602_end, name: lg, role: close, attrs: {'xml:id': lgP178p0837b0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6296, content: '', id: lgP178p0837b0914, name: lg, role: open, attrs: {'xml:id': lgP178p0837b0914, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6296, content: ○, id: KR6s0064_P_028-bkkpn107}
+  - {type: line-break, offset: 6299, content: '', id: KR6s0064_P_028-0837b10, ed: P, 'n': 0837b10}
+  - {type: page-break, offset: 6316, content: '', id: KR6s0064_P_028-0838a, ed: P, 'n': 0838a, source_xml_id: P178.1611.0838a}
+  - {type: line-break, offset: 6316, content: '', id: KR6s0064_P_028-0838a01, ed: P, 'n': 0838a01}
+  - {type: xml-element, offset: 6332, content: '', id: KR6s0064_P_028-bkkxmlele217, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6333, content: '', id: KR6s0064_P_028-bkkxmlele218, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6333, content: '', id: KR6s0064_P_028-0838a02, ed: P, 'n': 0838a02}
+  - {type: xml-element, offset: 6348, content: '', id: lgP178p0837b0914_end, name: lg, role: close, attrs: {'xml:id': lgP178p0837b0914, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6348, content: '', id: lgP178p0838a0216, name: lg, role: open, attrs: {'xml:id': lgP178p0838a0216, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6348, content: ○, id: KR6s0064_P_028-bkkpn108}
+  - {type: line-break, offset: 6349, content: '', id: KR6s0064_P_028-0838a03, ed: P, 'n': 0838a03}
+  - {type: line-break, offset: 6366, content: '', id: KR6s0064_P_028-0838a04, ed: P, 'n': 0838a04}
+  - {type: xml-element, offset: 6376, content: '', id: KR6s0064_P_028-bkkxmlele219, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6377, content: '', id: KR6s0064_P_028-bkkxmlele220, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6383, content: '', id: KR6s0064_P_028-0838a05, ed: P, 'n': 0838a05}
+  - {type: xml-element, offset: 6392, content: '', id: lgP178p0838a0216_end, name: lg, role: close, attrs: {'xml:id': lgP178p0838a0216, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6392, content: '', id: lgP178p0838a0510, name: lg, role: open, attrs: {'xml:id': lgP178p0838a0510, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6392, content: ○, id: KR6s0064_P_028-bkkpn109}
+  - {type: line-break, offset: 6399, content: '', id: KR6s0064_P_028-0838a06, ed: P, 'n': 0838a06}
+  - {type: line-break, offset: 6416, content: '', id: KR6s0064_P_028-0838a07, ed: P, 'n': 0838a07}
+  - {type: line-break, offset: 6433, content: '', id: KR6s0064_P_028-0838a08, ed: P, 'n': 0838a08}
+  - {type: xml-element, offset: 6443, content: '', id: KR6s0064_P_028-bkkxmlele221, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6444, content: '', id: KR6s0064_P_028-bkkxmlele222, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6450, content: '', id: KR6s0064_P_028-0838a09, ed: P, 'n': 0838a09}
+  - {type: xml-element, offset: 6459, content: '', id: lgP178p0838a0510_end, name: lg, role: close, attrs: {'xml:id': lgP178p0838a0510, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6459, content: '', id: lgP178p0838a0910, name: lg, role: open, attrs: {'xml:id': lgP178p0838a0910, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6459, content: ○, id: KR6s0064_P_028-bkkpn110}
+  - {type: line-break, offset: 6466, content: '', id: KR6s0064_P_028-0838a10, ed: P, 'n': 0838a10}
+  - {type: page-break, offset: 6483, content: '', id: KR6s0064_P_028-0838b, ed: P, 'n': 0838b, source_xml_id: P178.1611.0838b}
+  - {type: line-break, offset: 6483, content: '', id: KR6s0064_P_028-0838b01, ed: P, 'n': 0838b01}
+  - {type: line-break, offset: 6500, content: '', id: KR6s0064_P_028-0838b02, ed: P, 'n': 0838b02}
+  - {type: xml-element, offset: 6501, content: '', id: KR6s0064_P_028-bkkxmlele223, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6502, content: '', id: KR6s0064_P_028-bkkxmlele224, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 6517, content: '', id: lgP178p0838a0910_end, name: lg, role: close, attrs: {'xml:id': lgP178p0838a0910, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 6517, content: '', id: KR6s0064_P_028-0838b03, ed: P, 'n': 0838b03}
+  - {type: xml-element, offset: 6517, content: '', id: lgP178p0838b0301, name: lg, role: open, attrs: {'xml:id': lgP178p0838b0301, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6517, content: ○, id: KR6s0064_P_028-bkkpn111}
+  - {type: line-break, offset: 6533, content: '', id: KR6s0064_P_028-0838b04, ed: P, 'n': 0838b04}
+  - {type: line-break, offset: 6550, content: '', id: KR6s0064_P_028-0838b05, ed: P, 'n': 0838b05}
+  - {type: line-break, offset: 6567, content: '', id: KR6s0064_P_028-0838b06, ed: P, 'n': 0838b06}
+  - {type: xml-element, offset: 6571, content: '', id: KR6s0064_P_028-bkkxmlele225, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6572, content: '', id: KR6s0064_P_028-bkkxmlele226, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6584, content: '', id: KR6s0064_P_028-0838b07, ed: P, 'n': 0838b07}
+  - {type: xml-element, offset: 6587, content: '', id: lgP178p0838b0301_end, name: lg, role: close, attrs: {'xml:id': lgP178p0838b0301, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6587, content: '', id: lgP178p0838b0704, name: lg, role: open, attrs: {'xml:id': lgP178p0838b0704, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6587, content: ○, id: KR6s0064_P_028-bkkpn112}
+  - {type: line-break, offset: 6600, content: '', id: KR6s0064_P_028-0838b08, ed: P, 'n': 0838b08}
+  - {type: line-break, offset: 6617, content: '', id: KR6s0064_P_028-0838b09, ed: P, 'n': 0838b09}
+  - {type: line-break, offset: 6634, content: '', id: KR6s0064_P_028-0838b10, ed: P, 'n': 0838b10}
+  - {type: xml-element, offset: 6634, content: '', id: KR6s0064_P_028-bkkxmlele227, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6635, content: '', id: KR6s0064_P_028-bkkxmlele228, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 6650, content: '', id: lgP178p0838b0704_end, name: lg, role: close, attrs: {'xml:id': lgP178p0838b0704, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6650, content: '', id: lgP178p0838b1017, name: lg, role: open, attrs: {'xml:id': lgP178p0838b1017, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6650, content: ○, id: KR6s0064_P_028-bkkpn113}
+  - {type: page-break, offset: 6650, content: '', id: KR6s0064_P_028-0839a, ed: P, 'n': 0839a, source_xml_id: P178.1611.0839a}
+  - {type: line-break, offset: 6650, content: '', id: KR6s0064_P_028-0839a01, ed: P, 'n': 0839a01}
+  - {type: line-break, offset: 6667, content: '', id: KR6s0064_P_028-0839a02, ed: P, 'n': 0839a02}
+  - {type: line-break, offset: 6684, content: '', id: KR6s0064_P_028-0839a03, ed: P, 'n': 0839a03}
+  - {type: xml-element, offset: 6686, content: '', id: KR6s0064_P_028-bkkxmlele229, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6687, content: '', id: KR6s0064_P_028-bkkxmlele230, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6701, content: '', id: KR6s0064_P_028-0839a04, ed: P, 'n': 0839a04}
+  - {type: xml-element, offset: 6702, content: '', id: lgP178p0838b1017_end, name: lg, role: close, attrs: {'xml:id': lgP178p0838b1017, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6702, content: '', id: lgP178p0839a0402, name: lg, role: open, attrs: {'xml:id': lgP178p0839a0402, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6702, content: ○, id: KR6s0064_P_028-bkkpn114}
+  - {type: line-break, offset: 6717, content: '', id: KR6s0064_P_028-0839a05, ed: P, 'n': 0839a05}
+  - {type: xml-element, offset: 6730, content: '', id: KR6s0064_P_028-bkkxmlele231, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6731, content: '', id: KR6s0064_P_028-bkkxmlele232, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6734, content: '', id: KR6s0064_P_028-0839a06, ed: P, 'n': 0839a06}
+  - {type: xml-element, offset: 6746, content: '', id: lgP178p0839a0402_end, name: lg, role: close, attrs: {'xml:id': lgP178p0839a0402, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6746, content: '', id: lgP178p0839a0613, name: lg, role: open, attrs: {'xml:id': lgP178p0839a0613, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6746, content: ○, id: KR6s0064_P_028-bkkpn115}
+  - {type: line-break, offset: 6750, content: '', id: KR6s0064_P_028-0839a07, ed: P, 'n': 0839a07}
+  - {type: line-break, offset: 6767, content: '', id: KR6s0064_P_028-0839a08, ed: P, 'n': 0839a08}
+  - {type: line-break, offset: 6784, content: '', id: KR6s0064_P_028-0839a09, ed: P, 'n': 0839a09}
+  - {type: xml-element, offset: 6797, content: '', id: KR6s0064_P_028-bkkxmlele233, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6798, content: '', id: KR6s0064_P_028-bkkxmlele234, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6801, content: '', id: KR6s0064_P_028-0839a10, ed: P, 'n': 0839a10}
+  - {type: xml-element, offset: 6813, content: '', id: lgP178p0839a0613_end, name: lg, role: close, attrs: {'xml:id': lgP178p0839a0613, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6813, content: '', id: lgP178p0839a1013, name: lg, role: open, attrs: {'xml:id': lgP178p0839a1013, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6813, content: ○, id: KR6s0064_P_028-bkkpn116}
+  - {type: page-break, offset: 6817, content: '', id: KR6s0064_P_028-0839b, ed: P, 'n': 0839b, source_xml_id: P178.1611.0839b}
+  - {type: line-break, offset: 6817, content: '', id: KR6s0064_P_028-0839b01, ed: P, 'n': 0839b01}
+  - {type: line-break, offset: 6834, content: '', id: KR6s0064_P_028-0839b02, ed: P, 'n': 0839b02}
+  - {type: line-break, offset: 6851, content: '', id: KR6s0064_P_028-0839b03, ed: P, 'n': 0839b03}
+  - {type: xml-element, offset: 6855, content: '', id: KR6s0064_P_028-bkkxmlele235, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6856, content: '', id: KR6s0064_P_028-bkkxmlele236, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6868, content: '', id: KR6s0064_P_028-0839b04, ed: P, 'n': 0839b04}
+  - {type: xml-element, offset: 6871, content: '', id: lgP178p0839a1013_end, name: lg, role: close, attrs: {'xml:id': lgP178p0839a1013, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6871, content: '', id: lgP178p0839b0404, name: lg, role: open, attrs: {'xml:id': lgP178p0839b0404, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6871, content: ○, id: KR6s0064_P_028-bkkpn117}
+  - {type: line-break, offset: 6884, content: '', id: KR6s0064_P_028-0839b05, ed: P, 'n': 0839b05}
+  - {type: line-break, offset: 6901, content: '', id: KR6s0064_P_028-0839b06, ed: P, 'n': 0839b06}
+  - {type: line-break, offset: 6918, content: '', id: KR6s0064_P_028-0839b07, ed: P, 'n': 0839b07}
+  - {type: xml-element, offset: 6924, content: '', id: KR6s0064_P_028-bkkxmlele237, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6925, content: '', id: KR6s0064_P_028-bkkxmlele238, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 6935, content: '', id: KR6s0064_P_028-0839b08, ed: P, 'n': 0839b08}
+  - {type: xml-element, offset: 6940, content: '', id: lgP178p0839b0404_end, name: lg, role: close, attrs: {'xml:id': lgP178p0839b0404, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 6940, content: '', id: lgP178p0839b0806, name: lg, role: open, attrs: {'xml:id': lgP178p0839b0806, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 6940, content: ○, id: KR6s0064_P_028-bkkpn118}
+  - {type: line-break, offset: 6951, content: '', id: KR6s0064_P_028-0839b09, ed: P, 'n': 0839b09}
+  - {type: line-break, offset: 6968, content: '', id: KR6s0064_P_028-0839b10, ed: P, 'n': 0839b10}
+  - {type: page-break, offset: 6985, content: '', id: KR6s0064_P_028-0840a, ed: P, 'n': 0840a, source_xml_id: P178.1611.0840a}
+  - {type: line-break, offset: 6985, content: '', id: KR6s0064_P_028-0840a01, ed: P, 'n': 0840a01}
+  - {type: xml-element, offset: 6986, content: '', id: KR6s0064_P_028-bkkxmlele239, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 6987, content: '', id: KR6s0064_P_028-bkkxmlele240, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 7002, content: '', id: lgP178p0839b0806_end, name: lg, role: close, attrs: {'xml:id': lgP178p0839b0806, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 7002, content: '', id: KR6s0064_P_028-0840a02, ed: P, 'n': 0840a02}
+  - {type: xml-element, offset: 7002, content: '', id: lgP178p0840a0201, name: lg, role: open, attrs: {'xml:id': lgP178p0840a0201, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7002, content: ○, id: KR6s0064_P_028-bkkpn119}
+  - {type: line-break, offset: 7018, content: '', id: KR6s0064_P_028-0840a03, ed: P, 'n': 0840a03}
+  - {type: line-break, offset: 7035, content: '', id: KR6s0064_P_028-0840a04, ed: P, 'n': 0840a04}
+  - {type: xml-element, offset: 7038, content: '', id: KR6s0064_P_028-bkkxmlele241, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7039, content: '', id: KR6s0064_P_028-bkkxmlele242, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7052, content: '', id: KR6s0064_P_028-0840a05, ed: P, 'n': 0840a05}
+  - {type: xml-element, offset: 7054, content: '', id: lgP178p0840a0201_end, name: lg, role: close, attrs: {'xml:id': lgP178p0840a0201, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7054, content: '', id: lgP178p0840a0503, name: lg, role: open, attrs: {'xml:id': lgP178p0840a0503, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7054, content: ○, id: KR6s0064_P_028-bkkpn120}
+  - {type: line-break, offset: 7068, content: '', id: KR6s0064_P_028-0840a06, ed: P, 'n': 0840a06}
+  - {type: xml-element, offset: 7082, content: '', id: KR6s0064_P_028-bkkxmlele243, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7083, content: '', id: KR6s0064_P_028-bkkxmlele244, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7085, content: '', id: KR6s0064_P_028-0840a07, ed: P, 'n': 0840a07}
+  - {type: xml-element, offset: 7098, content: '', id: lgP178p0840a0503_end, name: lg, role: close, attrs: {'xml:id': lgP178p0840a0503, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7098, content: '', id: lgP178p0840a0714, name: lg, role: open, attrs: {'xml:id': lgP178p0840a0714, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7098, content: ○, id: KR6s0064_P_028-bkkpn121}
+  - {type: line-break, offset: 7101, content: '', id: KR6s0064_P_028-0840a08, ed: P, 'n': 0840a08}
+  - {type: line-break, offset: 7118, content: '', id: KR6s0064_P_028-0840a09, ed: P, 'n': 0840a09}
+  - {type: line-break, offset: 7135, content: '', id: KR6s0064_P_028-0840a10, ed: P, 'n': 0840a10}
+  - {type: xml-element, offset: 7149, content: '', id: KR6s0064_P_028-bkkxmlele245, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7150, content: '', id: KR6s0064_P_028-bkkxmlele246, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 7152, content: '', id: KR6s0064_P_028-0840b, ed: P, 'n': 0840b, source_xml_id: P178.1611.0840b}
+  - {type: line-break, offset: 7152, content: '', id: KR6s0064_P_028-0840b01, ed: P, 'n': 0840b01}
+  - {type: xml-element, offset: 7165, content: '', id: lgP178p0840a0714_end, name: lg, role: close, attrs: {'xml:id': lgP178p0840a0714, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7165, content: '', id: lgP178p0840b0114, name: lg, role: open, attrs: {'xml:id': lgP178p0840b0114, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7165, content: ○, id: KR6s0064_P_028-bkkpn122}
+  - {type: line-break, offset: 7168, content: '', id: KR6s0064_P_028-0840b02, ed: P, 'n': 0840b02}
+  - {type: line-break, offset: 7185, content: '', id: KR6s0064_P_028-0840b03, ed: P, 'n': 0840b03}
+  - {type: line-break, offset: 7202, content: '', id: KR6s0064_P_028-0840b04, ed: P, 'n': 0840b04}
+  - {type: xml-element, offset: 7207, content: '', id: KR6s0064_P_028-bkkxmlele247, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7208, content: '', id: KR6s0064_P_028-bkkxmlele248, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7219, content: '', id: KR6s0064_P_028-0840b05, ed: P, 'n': 0840b05}
+  - {type: xml-element, offset: 7223, content: '', id: lgP178p0840b0114_end, name: lg, role: close, attrs: {'xml:id': lgP178p0840b0114, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7223, content: '', id: lgP178p0840b0505, name: lg, role: open, attrs: {'xml:id': lgP178p0840b0505, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7223, content: ○, id: KR6s0064_P_028-bkkpn123}
+  - {type: line-break, offset: 7235, content: '', id: KR6s0064_P_028-0840b06, ed: P, 'n': 0840b06}
+  - {type: line-break, offset: 7252, content: '', id: KR6s0064_P_028-0840b07, ed: P, 'n': 0840b07}
+  - {type: line-break, offset: 7269, content: '', id: KR6s0064_P_028-0840b08, ed: P, 'n': 0840b08}
+  - {type: xml-element, offset: 7276, content: '', id: KR6s0064_P_028-bkkxmlele249, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7277, content: '', id: KR6s0064_P_028-bkkxmlele250, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7286, content: '', id: KR6s0064_P_028-0840b09, ed: P, 'n': 0840b09}
+  - {type: xml-element, offset: 7292, content: '', id: lgP178p0840b0505_end, name: lg, role: close, attrs: {'xml:id': lgP178p0840b0505, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7292, content: '', id: lgP178p0840b0907, name: lg, role: open, attrs: {'xml:id': lgP178p0840b0907, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7292, content: ○, id: KR6s0064_P_028-bkkpn124}
+  - {type: line-break, offset: 7302, content: '', id: KR6s0064_P_028-0840b10, ed: P, 'n': 0840b10}
+  - {type: page-break, offset: 7319, content: '', id: KR6s0064_P_028-0841a, ed: P, 'n': 0841a, source_xml_id: P178.1611.0841a}
+  - {type: line-break, offset: 7319, content: '', id: KR6s0064_P_028-0841a01, ed: P, 'n': 0841a01}
+  - {type: line-break, offset: 7336, content: '', id: KR6s0064_P_028-0841a02, ed: P, 'n': 0841a02}
+  - {type: xml-element, offset: 7338, content: '', id: KR6s0064_P_028-bkkxmlele251, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7339, content: '', id: KR6s0064_P_028-bkkxmlele252, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7353, content: '', id: KR6s0064_P_028-0841a03, ed: P, 'n': 0841a03}
+  - {type: xml-element, offset: 7354, content: '', id: lgP178p0840b0907_end, name: lg, role: close, attrs: {'xml:id': lgP178p0840b0907, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7354, content: '', id: lgP178p0841a0302, name: lg, role: open, attrs: {'xml:id': lgP178p0841a0302, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7354, content: ○, id: KR6s0064_P_028-bkkpn125}
+  - {type: line-break, offset: 7369, content: '', id: KR6s0064_P_028-0841a04, ed: P, 'n': 0841a04}
+  - {type: line-break, offset: 7386, content: '', id: KR6s0064_P_028-0841a05, ed: P, 'n': 0841a05}
+  - {type: xml-element, offset: 7390, content: '', id: KR6s0064_P_028-bkkxmlele253, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7391, content: '', id: KR6s0064_P_028-bkkxmlele254, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7403, content: '', id: KR6s0064_P_028-0841a06, ed: P, 'n': 0841a06}
+  - {type: xml-element, offset: 7406, content: '', id: lgP178p0841a0302_end, name: lg, role: close, attrs: {'xml:id': lgP178p0841a0302, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7406, content: '', id: lgP178p0841a0604, name: lg, role: open, attrs: {'xml:id': lgP178p0841a0604, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7406, content: ○, id: KR6s0064_P_028-bkkpn126}
+  - {type: line-break, offset: 7419, content: '', id: KR6s0064_P_028-0841a07, ed: P, 'n': 0841a07}
+  - {type: xml-element, offset: 7434, content: '', id: KR6s0064_P_028-bkkxmlele255, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7435, content: '', id: KR6s0064_P_028-bkkxmlele256, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7436, content: '', id: KR6s0064_P_028-0841a08, ed: P, 'n': 0841a08}
+  - {type: xml-element, offset: 7450, content: '', id: lgP178p0841a0604_end, name: lg, role: close, attrs: {'xml:id': lgP178p0841a0604, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7450, content: '', id: lgP178p0841a0815, name: lg, role: open, attrs: {'xml:id': lgP178p0841a0815, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7450, content: ○, id: KR6s0064_P_028-bkkpn127}
+  - {type: line-break, offset: 7452, content: '', id: KR6s0064_P_028-0841a09, ed: P, 'n': 0841a09}
+  - {type: line-break, offset: 7469, content: '', id: KR6s0064_P_028-0841a10, ed: P, 'n': 0841a10}
+  - {type: page-break, offset: 7486, content: '', id: KR6s0064_P_028-0841b, ed: P, 'n': 0841b, source_xml_id: P178.1611.0841b}
+  - {type: line-break, offset: 7486, content: '', id: KR6s0064_P_028-0841b01, ed: P, 'n': 0841b01}
+  - {type: xml-element, offset: 7501, content: '', id: KR6s0064_P_028-bkkxmlele257, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7502, content: '', id: KR6s0064_P_028-bkkxmlele258, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7503, content: '', id: KR6s0064_P_028-0841b02, ed: P, 'n': 0841b02}
+  - {type: xml-element, offset: 7517, content: '', id: lgP178p0841a0815_end, name: lg, role: close, attrs: {'xml:id': lgP178p0841a0815, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7517, content: '', id: lgP178p0841b0215, name: lg, role: open, attrs: {'xml:id': lgP178p0841b0215, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7517, content: ○, id: KR6s0064_P_028-bkkpn128}
+  - {type: line-break, offset: 7519, content: '', id: KR6s0064_P_028-0841b03, ed: P, 'n': 0841b03}
+  - {type: line-break, offset: 7536, content: '', id: KR6s0064_P_028-0841b04, ed: P, 'n': 0841b04}
+  - {type: line-break, offset: 7553, content: '', id: KR6s0064_P_028-0841b05, ed: P, 'n': 0841b05}
+  - {type: xml-element, offset: 7559, content: '', id: KR6s0064_P_028-bkkxmlele259, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7560, content: '', id: KR6s0064_P_028-bkkxmlele260, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7570, content: '', id: KR6s0064_P_028-0841b06, ed: P, 'n': 0841b06}
+  - {type: xml-element, offset: 7575, content: '', id: lgP178p0841b0215_end, name: lg, role: close, attrs: {'xml:id': lgP178p0841b0215, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7575, content: '', id: lgP178p0841b0606, name: lg, role: open, attrs: {'xml:id': lgP178p0841b0606, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7575, content: ○, id: KR6s0064_P_028-bkkpn129}
+  - {type: line-break, offset: 7586, content: '', id: KR6s0064_P_028-0841b07, ed: P, 'n': 0841b07}
+  - {type: line-break, offset: 7603, content: '', id: KR6s0064_P_028-0841b08, ed: P, 'n': 0841b08}
+  - {type: line-break, offset: 7620, content: '', id: KR6s0064_P_028-0841b09, ed: P, 'n': 0841b09}
+  - {type: xml-element, offset: 7629, content: '', id: KR6s0064_P_028-bkkxmlele261, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7630, content: '', id: KR6s0064_P_028-bkkxmlele262, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7637, content: '', id: KR6s0064_P_028-0841b10, ed: P, 'n': 0841b10}
+  - {type: xml-element, offset: 7645, content: '', id: lgP178p0841b0606_end, name: lg, role: close, attrs: {'xml:id': lgP178p0841b0606, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7645, content: '', id: lgP178p0841b1009, name: lg, role: open, attrs: {'xml:id': lgP178p0841b1009, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7645, content: ○, id: KR6s0064_P_028-bkkpn130}
+  - {type: page-break, offset: 7653, content: '', id: KR6s0064_P_028-0842a, ed: P, 'n': 0842a, source_xml_id: P178.1611.0842a}
+  - {type: line-break, offset: 7653, content: '', id: KR6s0064_P_028-0842a01, ed: P, 'n': 0842a01}
+  - {type: line-break, offset: 7670, content: '', id: KR6s0064_P_028-0842a02, ed: P, 'n': 0842a02}
+  - {type: line-break, offset: 7687, content: '', id: KR6s0064_P_028-0842a03, ed: P, 'n': 0842a03}
+  - {type: xml-element, offset: 7691, content: '', id: KR6s0064_P_028-bkkxmlele263, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7692, content: '', id: KR6s0064_P_028-bkkxmlele264, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7704, content: '', id: KR6s0064_P_028-0842a04, ed: P, 'n': 0842a04}
+  - {type: xml-element, offset: 7707, content: '', id: lgP178p0841b1009_end, name: lg, role: close, attrs: {'xml:id': lgP178p0841b1009, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7707, content: '', id: lgP178p0842a0404, name: lg, role: open, attrs: {'xml:id': lgP178p0842a0404, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7707, content: ○, id: KR6s0064_P_028-bkkpn131}
+  - {type: line-break, offset: 7720, content: '', id: KR6s0064_P_028-0842a05, ed: P, 'n': 0842a05}
+  - {type: line-break, offset: 7737, content: '', id: KR6s0064_P_028-0842a06, ed: P, 'n': 0842a06}
+  - {type: xml-element, offset: 7743, content: '', id: KR6s0064_P_028-bkkxmlele265, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7744, content: '', id: KR6s0064_P_028-bkkxmlele266, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7754, content: '', id: KR6s0064_P_028-0842a07, ed: P, 'n': 0842a07}
+  - {type: xml-element, offset: 7759, content: '', id: lgP178p0842a0404_end, name: lg, role: close, attrs: {'xml:id': lgP178p0842a0404, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7759, content: '', id: lgP178p0842a0706, name: lg, role: open, attrs: {'xml:id': lgP178p0842a0706, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7759, content: ○, id: KR6s0064_P_028-bkkpn132}
+  - {type: line-break, offset: 7770, content: '', id: KR6s0064_P_028-0842a08, ed: P, 'n': 0842a08}
+  - {type: line-break, offset: 7787, content: '', id: KR6s0064_P_028-0842a09, ed: P, 'n': 0842a09}
+  - {type: xml-element, offset: 7787, content: '', id: KR6s0064_P_028-bkkxmlele267, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7788, content: '', id: KR6s0064_P_028-bkkxmlele268, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 7803, content: '', id: lgP178p0842a0706_end, name: lg, role: close, attrs: {'xml:id': lgP178p0842a0706, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7803, content: '', id: lgP178p0842a0917, name: lg, role: open, attrs: {'xml:id': lgP178p0842a0917, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7803, content: ○, id: KR6s0064_P_028-bkkpn133}
+  - {type: line-break, offset: 7803, content: '', id: KR6s0064_P_028-0842a10, ed: P, 'n': 0842a10}
+  - {type: page-break, offset: 7820, content: '', id: KR6s0064_P_028-0842b, ed: P, 'n': 0842b, source_xml_id: P178.1611.0842b}
+  - {type: line-break, offset: 7820, content: '', id: KR6s0064_P_028-0842b01, ed: P, 'n': 0842b01}
+  - {type: line-break, offset: 7837, content: '', id: KR6s0064_P_028-0842b02, ed: P, 'n': 0842b02}
+  - {type: line-break, offset: 7854, content: '', id: KR6s0064_P_028-0842b03, ed: P, 'n': 0842b03}
+  - {type: xml-element, offset: 7854, content: '', id: KR6s0064_P_028-bkkxmlele269, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7855, content: '', id: KR6s0064_P_028-bkkxmlele270, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 7870, content: '', id: lgP178p0842a0917_end, name: lg, role: close, attrs: {'xml:id': lgP178p0842a0917, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7870, content: '', id: lgP178p0842b0317, name: lg, role: open, attrs: {'xml:id': lgP178p0842b0317, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7870, content: ○, id: KR6s0064_P_028-bkkpn134}
+  - {type: line-break, offset: 7870, content: '', id: KR6s0064_P_028-0842b04, ed: P, 'n': 0842b04}
+  - {type: line-break, offset: 7887, content: '', id: KR6s0064_P_028-0842b05, ed: P, 'n': 0842b05}
+  - {type: line-break, offset: 7904, content: '', id: KR6s0064_P_028-0842b06, ed: P, 'n': 0842b06}
+  - {type: xml-element, offset: 7912, content: '', id: KR6s0064_P_028-bkkxmlele271, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7913, content: '', id: KR6s0064_P_028-bkkxmlele272, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 7921, content: '', id: KR6s0064_P_028-0842b07, ed: P, 'n': 0842b07}
+  - {type: xml-element, offset: 7928, content: '', id: lgP178p0842b0317_end, name: lg, role: close, attrs: {'xml:id': lgP178p0842b0317, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7928, content: '', id: lgP178p0842b0708, name: lg, role: open, attrs: {'xml:id': lgP178p0842b0708, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7928, content: ○, id: KR6s0064_P_028-bkkpn135}
+  - {type: line-break, offset: 7937, content: '', id: KR6s0064_P_028-0842b08, ed: P, 'n': 0842b08}
+  - {type: line-break, offset: 7954, content: '', id: KR6s0064_P_028-0842b09, ed: P, 'n': 0842b09}
+  - {type: line-break, offset: 7971, content: '', id: KR6s0064_P_028-0842b10, ed: P, 'n': 0842b10}
+  - {type: xml-element, offset: 7981, content: '', id: KR6s0064_P_028-bkkxmlele273, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 7982, content: '', id: KR6s0064_P_028-bkkxmlele274, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 7988, content: '', id: KR6s0064_P_028-0843a, ed: P, 'n': 0843a, source_xml_id: P178.1611.0843a}
+  - {type: line-break, offset: 7988, content: '', id: KR6s0064_P_028-0843a01, ed: P, 'n': 0843a01}
+  - {type: xml-element, offset: 7998, content: '', id: lgP178p0842b0708_end, name: lg, role: close, attrs: {'xml:id': lgP178p0842b0708, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 7998, content: '', id: lgP178p0843a0111, name: lg, role: open, attrs: {'xml:id': lgP178p0843a0111, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 7998, content: ○, id: KR6s0064_P_028-bkkpn136}
+  - {type: line-break, offset: 8004, content: '', id: KR6s0064_P_028-0843a02, ed: P, 'n': 0843a02}
+  - {type: line-break, offset: 8021, content: '', id: KR6s0064_P_028-0843a03, ed: P, 'n': 0843a03}
+  - {type: line-break, offset: 8038, content: '', id: KR6s0064_P_028-0843a04, ed: P, 'n': 0843a04}
+  - {type: xml-element, offset: 8044, content: '', id: KR6s0064_P_028-bkkxmlele275, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8045, content: '', id: KR6s0064_P_028-bkkxmlele276, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8056, content: '', id: KR6s0064_P_028-0843a05, ed: P, 'n': 0843a05}
+  - {type: xml-element, offset: 8060, content: '', id: lgP178p0843a0111_end, name: lg, role: close, attrs: {'xml:id': lgP178p0843a0111, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8060, content: '', id: lgP178p0843a0505, name: lg, role: open, attrs: {'xml:id': lgP178p0843a0505, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8060, content: ○, id: KR6s0064_P_028-bkkpn137}
+  - {type: line-break, offset: 8072, content: '', id: KR6s0064_P_028-0843a06, ed: P, 'n': 0843a06}
+  - {type: line-break, offset: 8089, content: '', id: KR6s0064_P_028-0843a07, ed: P, 'n': 0843a07}
+  - {type: xml-element, offset: 8096, content: '', id: KR6s0064_P_028-bkkxmlele277, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8097, content: '', id: KR6s0064_P_028-bkkxmlele278, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8106, content: '', id: KR6s0064_P_028-0843a08, ed: P, 'n': 0843a08}
+  - {type: xml-element, offset: 8112, content: '', id: lgP178p0843a0505_end, name: lg, role: close, attrs: {'xml:id': lgP178p0843a0505, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8112, content: '', id: lgP178p0843a0807, name: lg, role: open, attrs: {'xml:id': lgP178p0843a0807, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8112, content: ○, id: KR6s0064_P_028-bkkpn138}
+  - {type: line-break, offset: 8122, content: '', id: KR6s0064_P_028-0843a09, ed: P, 'n': 0843a09}
+  - {type: line-break, offset: 8139, content: '', id: KR6s0064_P_028-0843a10, ed: P, 'n': 0843a10}
+  - {type: xml-element, offset: 8140, content: '', id: KR6s0064_P_028-bkkxmlele279, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8141, content: '', id: KR6s0064_P_028-bkkxmlele280, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 8156, content: '', id: lgP178p0843a0807_end, name: lg, role: close, attrs: {'xml:id': lgP178p0843a0807, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: page-break, offset: 8156, content: '', id: KR6s0064_P_028-0843b, ed: P, 'n': 0843b, source_xml_id: P178.1611.0843b}
+  - {type: line-break, offset: 8156, content: '', id: KR6s0064_P_028-0843b01, ed: P, 'n': 0843b01}
+  - {type: xml-element, offset: 8156, content: '', id: lgP178p0843b0101, name: lg, role: open, attrs: {'xml:id': lgP178p0843b0101, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8156, content: ○, id: KR6s0064_P_028-bkkpn139}
+  - {type: line-break, offset: 8172, content: '', id: KR6s0064_P_028-0843b02, ed: P, 'n': 0843b02}
+  - {type: line-break, offset: 8189, content: '', id: KR6s0064_P_028-0843b03, ed: P, 'n': 0843b03}
+  - {type: line-break, offset: 8206, content: '', id: KR6s0064_P_028-0843b04, ed: P, 'n': 0843b04}
+  - {type: xml-element, offset: 8207, content: '', id: KR6s0064_P_028-bkkxmlele281, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8208, content: '', id: KR6s0064_P_028-bkkxmlele282, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 8223, content: '', id: lgP178p0843b0101_end, name: lg, role: close, attrs: {'xml:id': lgP178p0843b0101, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 8223, content: '', id: KR6s0064_P_028-0843b05, ed: P, 'n': 0843b05}
+  - {type: xml-element, offset: 8223, content: '', id: lgP178p0843b0501, name: lg, role: open, attrs: {'xml:id': lgP178p0843b0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8223, content: ○, id: KR6s0064_P_028-bkkpn140}
+  - {type: line-break, offset: 8239, content: '', id: KR6s0064_P_028-0843b06, ed: P, 'n': 0843b06}
+  - {type: line-break, offset: 8256, content: '', id: KR6s0064_P_028-0843b07, ed: P, 'n': 0843b07}
+  - {type: xml-element, offset: 8265, content: '', id: KR6s0064_P_028-bkkxmlele283, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8266, content: '', id: KR6s0064_P_028-bkkxmlele284, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8273, content: '', id: KR6s0064_P_028-0843b08, ed: P, 'n': 0843b08}
+  - {type: xml-element, offset: 8281, content: '', id: lgP178p0843b0501_end, name: lg, role: close, attrs: {'xml:id': lgP178p0843b0501, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8281, content: '', id: lgP178p0843b0809, name: lg, role: open, attrs: {'xml:id': lgP178p0843b0809, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8281, content: ○, id: KR6s0064_P_028-bkkpn141}
+  - {type: line-break, offset: 8289, content: '', id: KR6s0064_P_028-0843b09, ed: P, 'n': 0843b09}
+  - {type: line-break, offset: 8306, content: '', id: KR6s0064_P_028-0843b10, ed: P, 'n': 0843b10}
+  - {type: page-break, offset: 8323, content: '', id: KR6s0064_P_028-0844a, ed: P, 'n': 0844a, source_xml_id: P178.1611.0844a}
+  - {type: line-break, offset: 8323, content: '', id: KR6s0064_P_028-0844a01, ed: P, 'n': 0844a01}
+  - {type: xml-element, offset: 8335, content: '', id: KR6s0064_P_028-bkkxmlele285, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8336, content: '', id: KR6s0064_P_028-bkkxmlele286, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8340, content: '', id: KR6s0064_P_028-0844a02, ed: P, 'n': 0844a02}
+  - {type: xml-element, offset: 8351, content: '', id: lgP178p0843b0809_end, name: lg, role: close, attrs: {'xml:id': lgP178p0843b0809, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8351, content: '', id: lgP178p0844a0212, name: lg, role: open, attrs: {'xml:id': lgP178p0844a0212, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8351, content: ○, id: KR6s0064_P_028-bkkpn142}
+  - {type: line-break, offset: 8356, content: '', id: KR6s0064_P_028-0844a03, ed: P, 'n': 0844a03}
+  - {type: line-break, offset: 8373, content: '', id: KR6s0064_P_028-0844a04, ed: P, 'n': 0844a04}
+  - {type: line-break, offset: 8390, content: '', id: KR6s0064_P_028-0844a05, ed: P, 'n': 0844a05}
+  - {type: xml-element, offset: 8397, content: '', id: KR6s0064_P_028-bkkxmlele287, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8398, content: '', id: KR6s0064_P_028-bkkxmlele288, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8407, content: '', id: KR6s0064_P_028-0844a06, ed: P, 'n': 0844a06}
+  - {type: xml-element, offset: 8413, content: '', id: lgP178p0844a0212_end, name: lg, role: close, attrs: {'xml:id': lgP178p0844a0212, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8413, content: '', id: lgP178p0844a0607, name: lg, role: open, attrs: {'xml:id': lgP178p0844a0607, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8413, content: ○, id: KR6s0064_P_028-bkkpn143}
+  - {type: line-break, offset: 8423, content: '', id: KR6s0064_P_028-0844a07, ed: P, 'n': 0844a07}
+  - {type: line-break, offset: 8440, content: '', id: KR6s0064_P_028-0844a08, ed: P, 'n': 0844a08}
+  - {type: xml-element, offset: 8449, content: '', id: KR6s0064_P_028-bkkxmlele289, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8450, content: '', id: KR6s0064_P_028-bkkxmlele290, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8457, content: '', id: KR6s0064_P_028-0844a09, ed: P, 'n': 0844a09}
+  - {type: xml-element, offset: 8465, content: '', id: lgP178p0844a0607_end, name: lg, role: close, attrs: {'xml:id': lgP178p0844a0607, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8465, content: '', id: lgP178p0844a0909, name: lg, role: open, attrs: {'xml:id': lgP178p0844a0909, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8465, content: ○, id: KR6s0064_P_028-bkkpn144}
+  - {type: line-break, offset: 8473, content: '', id: KR6s0064_P_028-0844a10, ed: P, 'n': 0844a10}
+  - {type: page-break, offset: 8490, content: '', id: KR6s0064_P_028-0844b, ed: P, 'n': 0844b, source_xml_id: P178.1611.0844b}
+  - {type: line-break, offset: 8490, content: '', id: KR6s0064_P_028-0844b01, ed: P, 'n': 0844b01}
+  - {type: xml-element, offset: 8493, content: '', id: KR6s0064_P_028-bkkxmlele291, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8494, content: '', id: KR6s0064_P_028-bkkxmlele292, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8507, content: '', id: KR6s0064_P_028-0844b02, ed: P, 'n': 0844b02}
+  - {type: xml-element, offset: 8509, content: '', id: lgP178p0844a0909_end, name: lg, role: close, attrs: {'xml:id': lgP178p0844a0909, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8509, content: '', id: lgP178p0844b0203, name: lg, role: open, attrs: {'xml:id': lgP178p0844b0203, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8509, content: ○, id: KR6s0064_P_028-bkkpn145}
+  - {type: line-break, offset: 8523, content: '', id: KR6s0064_P_028-0844b03, ed: P, 'n': 0844b03}
+  - {type: line-break, offset: 8540, content: '', id: KR6s0064_P_028-0844b04, ed: P, 'n': 0844b04}
+  - {type: line-break, offset: 8557, content: '', id: KR6s0064_P_028-0844b05, ed: P, 'n': 0844b05}
+  - {type: xml-element, offset: 8561, content: '', id: KR6s0064_P_028-bkkxmlele293, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8562, content: '', id: KR6s0064_P_028-bkkxmlele294, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8574, content: '', id: KR6s0064_P_028-0844b06, ed: P, 'n': 0844b06}
+  - {type: xml-element, offset: 8577, content: '', id: lgP178p0844b0203_end, name: lg, role: close, attrs: {'xml:id': lgP178p0844b0203, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8577, content: '', id: lgP178p0844b0604, name: lg, role: open, attrs: {'xml:id': lgP178p0844b0604, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8577, content: ○, id: KR6s0064_P_028-bkkpn146}
+  - {type: line-break, offset: 8590, content: '', id: KR6s0064_P_028-0844b07, ed: P, 'n': 0844b07}
+  - {type: line-break, offset: 8607, content: '', id: KR6s0064_P_028-0844b08, ed: P, 'n': 0844b08}
+  - {type: xml-element, offset: 8620, content: '', id: KR6s0064_P_028-bkkxmlele295, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8621, content: '', id: KR6s0064_P_028-bkkxmlele296, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8624, content: '', id: KR6s0064_P_028-0844b09, ed: P, 'n': 0844b09}
+  - {type: xml-element, offset: 8636, content: '', id: lgP178p0844b0604_end, name: lg, role: close, attrs: {'xml:id': lgP178p0844b0604, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8636, content: '', id: lgP178p0844b0913, name: lg, role: open, attrs: {'xml:id': lgP178p0844b0913, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8636, content: ○, id: KR6s0064_P_028-bkkpn147}
+  - {type: line-break, offset: 8640, content: '', id: KR6s0064_P_028-0844b10, ed: P, 'n': 0844b10}
+  - {type: page-break, offset: 8657, content: '', id: KR6s0064_P_028-0845a, ed: P, 'n': 0845a, source_xml_id: P178.1611.0845a}
+  - {type: line-break, offset: 8657, content: '', id: KR6s0064_P_028-0845a01, ed: P, 'n': 0845a01}
+  - {type: line-break, offset: 8674, content: '', id: KR6s0064_P_028-0845a02, ed: P, 'n': 0845a02}
+  - {type: xml-element, offset: 8690, content: '', id: KR6s0064_P_028-bkkxmlele297, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8691, content: '', id: KR6s0064_P_028-bkkxmlele298, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8691, content: '', id: KR6s0064_P_028-0845a03, ed: P, 'n': 0845a03}
+  - {type: xml-element, offset: 8706, content: '', id: lgP178p0844b0913_end, name: lg, role: close, attrs: {'xml:id': lgP178p0844b0913, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8706, content: '', id: lgP178p0845a0316, name: lg, role: open, attrs: {'xml:id': lgP178p0845a0316, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8706, content: ○, id: KR6s0064_P_028-bkkpn148}
+  - {type: line-break, offset: 8707, content: '', id: KR6s0064_P_028-0845a04, ed: P, 'n': 0845a04}
+  - {type: line-break, offset: 8724, content: '', id: KR6s0064_P_028-0845a05, ed: P, 'n': 0845a05}
+  - {type: line-break, offset: 8741, content: '', id: KR6s0064_P_028-0845a06, ed: P, 'n': 0845a06}
+  - {type: xml-element, offset: 8753, content: '', id: KR6s0064_P_028-bkkxmlele299, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8754, content: '', id: KR6s0064_P_028-bkkxmlele300, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8758, content: '', id: KR6s0064_P_028-0845a07, ed: P, 'n': 0845a07}
+  - {type: xml-element, offset: 8769, content: '', id: lgP178p0845a0316_end, name: lg, role: close, attrs: {'xml:id': lgP178p0845a0316, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8769, content: '', id: lgP178p0845a0712, name: lg, role: open, attrs: {'xml:id': lgP178p0845a0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8769, content: ○, id: KR6s0064_P_028-bkkpn149}
+  - {type: line-break, offset: 8774, content: '', id: KR6s0064_P_028-0845a08, ed: P, 'n': 0845a08}
+  - {type: line-break, offset: 8791, content: '', id: KR6s0064_P_028-0845a09, ed: P, 'n': 0845a09}
+  - {type: xml-element, offset: 8805, content: '', id: KR6s0064_P_028-bkkxmlele301, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8806, content: '', id: KR6s0064_P_028-bkkxmlele302, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8808, content: '', id: KR6s0064_P_028-0845a10, ed: P, 'n': 0845a10}
+  - {type: xml-element, offset: 8821, content: '', id: lgP178p0845a0712_end, name: lg, role: close, attrs: {'xml:id': lgP178p0845a0712, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8821, content: '', id: lgP178p0845a1014, name: lg, role: open, attrs: {'xml:id': lgP178p0845a1014, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8821, content: ○, id: KR6s0064_P_028-bkkpn150}
+  - {type: page-break, offset: 8824, content: '', id: KR6s0064_P_028-0845b, ed: P, 'n': 0845b, source_xml_id: P178.1611.0845b}
+  - {type: line-break, offset: 8824, content: '', id: KR6s0064_P_028-0845b01, ed: P, 'n': 0845b01}
+  - {type: line-break, offset: 8841, content: '', id: KR6s0064_P_028-0845b02, ed: P, 'n': 0845b02}
+  - {type: xml-element, offset: 8849, content: '', id: KR6s0064_P_028-bkkxmlele303, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8850, content: '', id: KR6s0064_P_028-bkkxmlele304, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8858, content: '', id: KR6s0064_P_028-0845b03, ed: P, 'n': 0845b03}
+  - {type: xml-element, offset: 8865, content: '', id: lgP178p0845a1014_end, name: lg, role: close, attrs: {'xml:id': lgP178p0845a1014, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8865, content: '', id: lgP178p0845b0308, name: lg, role: open, attrs: {'xml:id': lgP178p0845b0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8865, content: ○, id: KR6s0064_P_028-bkkpn151}
+  - {type: line-break, offset: 8874, content: '', id: KR6s0064_P_028-0845b04, ed: P, 'n': 0845b04}
+  - {type: line-break, offset: 8891, content: '', id: KR6s0064_P_028-0845b05, ed: P, 'n': 0845b05}
+  - {type: line-break, offset: 8908, content: '', id: KR6s0064_P_028-0845b06, ed: P, 'n': 0845b06}
+  - {type: xml-element, offset: 8917, content: '', id: KR6s0064_P_028-bkkxmlele305, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8918, content: '', id: KR6s0064_P_028-bkkxmlele306, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 8925, content: '', id: KR6s0064_P_028-0845b07, ed: P, 'n': 0845b07}
+  - {type: xml-element, offset: 8933, content: '', id: lgP178p0845b0308_end, name: lg, role: close, attrs: {'xml:id': lgP178p0845b0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 8933, content: '', id: lgP178p0845b0709, name: lg, role: open, attrs: {'xml:id': lgP178p0845b0709, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8933, content: ○, id: KR6s0064_P_028-bkkpn152}
+  - {type: line-break, offset: 8941, content: '', id: KR6s0064_P_028-0845b08, ed: P, 'n': 0845b08}
+  - {type: line-break, offset: 8958, content: '', id: KR6s0064_P_028-0845b09, ed: P, 'n': 0845b09}
+  - {type: line-break, offset: 8975, content: '', id: KR6s0064_P_028-0845b10, ed: P, 'n': 0845b10}
+  - {type: xml-element, offset: 8976, content: '', id: KR6s0064_P_028-bkkxmlele307, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 8977, content: '', id: KR6s0064_P_028-bkkxmlele308, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 8992, content: '', id: lgP178p0845b0709_end, name: lg, role: close, attrs: {'xml:id': lgP178p0845b0709, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: page-break, offset: 8992, content: '', id: KR6s0064_P_028-0846a, ed: P, 'n': 0846a, source_xml_id: P178.1611.0846a}
+  - {type: line-break, offset: 8992, content: '', id: KR6s0064_P_028-0846a01, ed: P, 'n': 0846a01}
+  - {type: xml-element, offset: 8992, content: '', id: lgP178p0846a0101, name: lg, role: open, attrs: {'xml:id': lgP178p0846a0101, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 8992, content: ○, id: KR6s0064_P_028-bkkpn153}
+  - {type: line-break, offset: 9008, content: '', id: KR6s0064_P_028-0846a02, ed: P, 'n': 0846a02}
+  - {type: line-break, offset: 9025, content: '', id: KR6s0064_P_028-0846a03, ed: P, 'n': 0846a03}
+  - {type: line-break, offset: 9042, content: '', id: KR6s0064_P_028-0846a04, ed: P, 'n': 0846a04}
+  - {type: xml-element, offset: 9047, content: '', id: KR6s0064_P_028-bkkxmlele309, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9048, content: '', id: KR6s0064_P_028-bkkxmlele310, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9059, content: '', id: KR6s0064_P_028-0846a05, ed: P, 'n': 0846a05}
+  - {type: xml-element, offset: 9063, content: '', id: lgP178p0846a0101_end, name: lg, role: close, attrs: {'xml:id': lgP178p0846a0101, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9063, content: '', id: lgP178p0846a0505, name: lg, role: open, attrs: {'xml:id': lgP178p0846a0505, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9063, content: ○, id: KR6s0064_P_028-bkkpn154}
+  - {type: line-break, offset: 9075, content: '', id: KR6s0064_P_028-0846a06, ed: P, 'n': 0846a06}
+  - {type: line-break, offset: 9092, content: '', id: KR6s0064_P_028-0846a07, ed: P, 'n': 0846a07}
+  - {type: line-break, offset: 9109, content: '', id: KR6s0064_P_028-0846a08, ed: P, 'n': 0846a08}
+  - {type: xml-element, offset: 9110, content: '', id: KR6s0064_P_028-bkkxmlele311, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9111, content: '', id: KR6s0064_P_028-bkkxmlele312, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 9126, content: '', id: lgP178p0846a0505_end, name: lg, role: close, attrs: {'xml:id': lgP178p0846a0505, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 9126, content: '', id: KR6s0064_P_028-0846a09, ed: P, 'n': 0846a09}
+  - {type: xml-element, offset: 9126, content: '', id: lgP178p0846a0901, name: lg, role: open, attrs: {'xml:id': lgP178p0846a0901, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9126, content: ○, id: KR6s0064_P_028-bkkpn155}
+  - {type: line-break, offset: 9142, content: '', id: KR6s0064_P_028-0846a10, ed: P, 'n': 0846a10}
+  - {type: page-break, offset: 9159, content: '', id: KR6s0064_P_028-0846b, ed: P, 'n': 0846b, source_xml_id: P178.1611.0846b}
+  - {type: line-break, offset: 9159, content: '', id: KR6s0064_P_028-0846b01, ed: P, 'n': 0846b01}
+  - {type: xml-element, offset: 9162, content: '', id: KR6s0064_P_028-bkkxmlele313, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9163, content: '', id: KR6s0064_P_028-bkkxmlele314, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9176, content: '', id: KR6s0064_P_028-0846b02, ed: P, 'n': 0846b02}
+  - {type: xml-element, offset: 9178, content: '', id: lgP178p0846a0901_end, name: lg, role: close, attrs: {'xml:id': lgP178p0846a0901, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9178, content: '', id: lgP178p0846b0203, name: lg, role: open, attrs: {'xml:id': lgP178p0846b0203, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9178, content: ○, id: KR6s0064_P_028-bkkpn156}
+  - {type: line-break, offset: 9192, content: '', id: KR6s0064_P_028-0846b03, ed: P, 'n': 0846b03}
+  - {type: xml-element, offset: 9206, content: '', id: KR6s0064_P_028-bkkxmlele315, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9207, content: '', id: KR6s0064_P_028-bkkxmlele316, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9209, content: '', id: KR6s0064_P_028-0846b04, ed: P, 'n': 0846b04}
+  - {type: xml-element, offset: 9222, content: '', id: lgP178p0846b0203_end, name: lg, role: close, attrs: {'xml:id': lgP178p0846b0203, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9222, content: '', id: lgP178p0846b0414, name: lg, role: open, attrs: {'xml:id': lgP178p0846b0414, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9222, content: ○, id: KR6s0064_P_028-bkkpn157}
+  - {type: line-break, offset: 9225, content: '', id: KR6s0064_P_028-0846b05, ed: P, 'n': 0846b05}
+  - {type: line-break, offset: 9242, content: '', id: KR6s0064_P_028-0846b06, ed: P, 'n': 0846b06}
+  - {type: line-break, offset: 9259, content: '', id: KR6s0064_P_028-0846b07, ed: P, 'n': 0846b07}
+  - {type: xml-element, offset: 9274, content: '', id: KR6s0064_P_028-bkkxmlele317, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9275, content: '', id: KR6s0064_P_028-bkkxmlele318, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9276, content: '', id: KR6s0064_P_028-0846b08, ed: P, 'n': 0846b08}
+  - {type: xml-element, offset: 9290, content: '', id: lgP178p0846b0414_end, name: lg, role: close, attrs: {'xml:id': lgP178p0846b0414, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9290, content: '', id: lgP178p0846b0815, name: lg, role: open, attrs: {'xml:id': lgP178p0846b0815, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9290, content: ○, id: KR6s0064_P_028-bkkpn158}
+  - {type: line-break, offset: 9292, content: '', id: KR6s0064_P_028-0846b09, ed: P, 'n': 0846b09}
+  - {type: line-break, offset: 9309, content: '', id: KR6s0064_P_028-0846b10, ed: P, 'n': 0846b10}
+  - {type: page-break, offset: 9326, content: '', id: KR6s0064_P_028-0847a, ed: P, 'n': 0847a, source_xml_id: P178.1611.0847a}
+  - {type: line-break, offset: 9326, content: '', id: KR6s0064_P_028-0847a01, ed: P, 'n': 0847a01}
+  - {type: xml-element, offset: 9333, content: '', id: KR6s0064_P_028-bkkxmlele319, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9334, content: '', id: KR6s0064_P_028-bkkxmlele320, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9343, content: '', id: KR6s0064_P_028-0847a02, ed: P, 'n': 0847a02}
+  - {type: xml-element, offset: 9349, content: '', id: lgP178p0846b0815_end, name: lg, role: close, attrs: {'xml:id': lgP178p0846b0815, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9349, content: '', id: lgP178p0847a0207, name: lg, role: open, attrs: {'xml:id': lgP178p0847a0207, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9349, content: ○, id: KR6s0064_P_028-bkkpn159}
+  - {type: line-break, offset: 9359, content: '', id: KR6s0064_P_028-0847a03, ed: P, 'n': 0847a03}
+  - {type: line-break, offset: 9376, content: '', id: KR6s0064_P_028-0847a04, ed: P, 'n': 0847a04}
+  - {type: line-break, offset: 9393, content: '', id: KR6s0064_P_028-0847a05, ed: P, 'n': 0847a05}
+  - {type: xml-element, offset: 9403, content: '', id: KR6s0064_P_028-bkkxmlele321, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9404, content: '', id: KR6s0064_P_028-bkkxmlele322, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9410, content: '', id: KR6s0064_P_028-0847a06, ed: P, 'n': 0847a06}
+  - {type: xml-element, offset: 9419, content: '', id: lgP178p0847a0207_end, name: lg, role: close, attrs: {'xml:id': lgP178p0847a0207, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9419, content: '', id: lgP178p0847a0610, name: lg, role: open, attrs: {'xml:id': lgP178p0847a0610, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9419, content: ○, id: KR6s0064_P_028-bkkpn160}
+  - {type: line-break, offset: 9426, content: '', id: KR6s0064_P_028-0847a07, ed: P, 'n': 0847a07}
+  - {type: line-break, offset: 9443, content: '', id: KR6s0064_P_028-0847a08, ed: P, 'n': 0847a08}
+  - {type: line-break, offset: 9460, content: '', id: KR6s0064_P_028-0847a09, ed: P, 'n': 0847a09}
+  - {type: xml-element, offset: 9466, content: '', id: KR6s0064_P_028-bkkxmlele323, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9467, content: '', id: KR6s0064_P_028-bkkxmlele324, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9477, content: '', id: KR6s0064_P_028-0847a10, ed: P, 'n': 0847a10}
+  - {type: xml-element, offset: 9482, content: '', id: lgP178p0847a0610_end, name: lg, role: close, attrs: {'xml:id': lgP178p0847a0610, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9482, content: '', id: lgP178p0847a1006, name: lg, role: open, attrs: {'xml:id': lgP178p0847a1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9482, content: ○, id: KR6s0064_P_028-bkkpn161}
+  - {type: page-break, offset: 9493, content: '', id: KR6s0064_P_028-0847b, ed: P, 'n': 0847b, source_xml_id: P178.1611.0847b}
+  - {type: line-break, offset: 9493, content: '', id: KR6s0064_P_028-0847b01, ed: P, 'n': 0847b01}
+  - {type: line-break, offset: 9510, content: '', id: KR6s0064_P_028-0847b02, ed: P, 'n': 0847b02}
+  - {type: xml-element, offset: 9518, content: '', id: KR6s0064_P_028-bkkxmlele325, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9519, content: '', id: KR6s0064_P_028-bkkxmlele326, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9527, content: '', id: KR6s0064_P_028-0847b03, ed: P, 'n': 0847b03}
+  - {type: xml-element, offset: 9534, content: '', id: lgP178p0847a1006_end, name: lg, role: close, attrs: {'xml:id': lgP178p0847a1006, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9534, content: '', id: lgP178p0847b0308, name: lg, role: open, attrs: {'xml:id': lgP178p0847b0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9534, content: ○, id: KR6s0064_P_028-bkkpn162}
+  - {type: line-break, offset: 9543, content: '', id: KR6s0064_P_028-0847b04, ed: P, 'n': 0847b04}
+  - {type: line-break, offset: 9560, content: '', id: KR6s0064_P_028-0847b05, ed: P, 'n': 0847b05}
+  - {type: xml-element, offset: 9562, content: '', id: KR6s0064_P_028-bkkxmlele327, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9563, content: '', id: KR6s0064_P_028-bkkxmlele328, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9577, content: '', id: KR6s0064_P_028-0847b06, ed: P, 'n': 0847b06}
+  - {type: xml-element, offset: 9578, content: '', id: lgP178p0847b0308_end, name: lg, role: close, attrs: {'xml:id': lgP178p0847b0308, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9578, content: '', id: lgP178p0847b0602, name: lg, role: open, attrs: {'xml:id': lgP178p0847b0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9578, content: ○, id: KR6s0064_P_028-bkkpn163}
+  - {type: line-break, offset: 9593, content: '', id: KR6s0064_P_028-0847b07, ed: P, 'n': 0847b07}
+  - {type: line-break, offset: 9610, content: '', id: KR6s0064_P_028-0847b08, ed: P, 'n': 0847b08}
+  - {type: line-break, offset: 9627, content: '', id: KR6s0064_P_028-0847b09, ed: P, 'n': 0847b09}
+  - {type: xml-element, offset: 9630, content: '', id: KR6s0064_P_028-bkkxmlele329, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9631, content: '', id: KR6s0064_P_028-bkkxmlele330, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9644, content: '', id: KR6s0064_P_028-0847b10, ed: P, 'n': 0847b10}
+  - {type: xml-element, offset: 9646, content: '', id: lgP178p0847b0602_end, name: lg, role: close, attrs: {'xml:id': lgP178p0847b0602, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9646, content: '', id: lgP178p0847b1003, name: lg, role: open, attrs: {'xml:id': lgP178p0847b1003, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9646, content: ○, id: KR6s0064_P_028-bkkpn164}
+  - {type: page-break, offset: 9660, content: '', id: KR6s0064_P_028-0848a, ed: P, 'n': 0848a, source_xml_id: P178.1611.0848a}
+  - {type: line-break, offset: 9660, content: '', id: KR6s0064_P_028-0848a01, ed: P, 'n': 0848a01}
+  - {type: line-break, offset: 9677, content: '', id: KR6s0064_P_028-0848a02, ed: P, 'n': 0848a02}
+  - {type: xml-element, offset: 9689, content: '', id: KR6s0064_P_028-bkkxmlele331, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9690, content: '', id: KR6s0064_P_028-bkkxmlele332, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9694, content: '', id: KR6s0064_P_028-0848a03, ed: P, 'n': 0848a03}
+  - {type: xml-element, offset: 9705, content: '', id: lgP178p0847b1003_end, name: lg, role: close, attrs: {'xml:id': lgP178p0847b1003, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9705, content: '', id: lgP178p0848a0312, name: lg, role: open, attrs: {'xml:id': lgP178p0848a0312, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9705, content: ○, id: KR6s0064_P_028-bkkpn165}
+  - {type: line-break, offset: 9710, content: '', id: KR6s0064_P_028-0848a04, ed: P, 'n': 0848a04}
+  - {type: line-break, offset: 9727, content: '', id: KR6s0064_P_028-0848a05, ed: P, 'n': 0848a05}
+  - {type: line-break, offset: 9744, content: '', id: KR6s0064_P_028-0848a06, ed: P, 'n': 0848a06}
+  - {type: xml-element, offset: 9759, content: '', id: KR6s0064_P_028-bkkxmlele333, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9760, content: '', id: KR6s0064_P_028-bkkxmlele334, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9761, content: '', id: KR6s0064_P_028-0848a07, ed: P, 'n': 0848a07}
+  - {type: xml-element, offset: 9775, content: '', id: lgP178p0848a0312_end, name: lg, role: close, attrs: {'xml:id': lgP178p0848a0312, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9775, content: '', id: lgP178p0848a0715, name: lg, role: open, attrs: {'xml:id': lgP178p0848a0715, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9775, content: ○, id: KR6s0064_P_028-bkkpn166}
+  - {type: line-break, offset: 9777, content: '', id: KR6s0064_P_028-0848a08, ed: P, 'n': 0848a08}
+  - {type: line-break, offset: 9794, content: '', id: KR6s0064_P_028-0848a09, ed: P, 'n': 0848a09}
+  - {type: line-break, offset: 9811, content: '', id: KR6s0064_P_028-0848a10, ed: P, 'n': 0848a10}
+  - {type: xml-element, offset: 9822, content: '', id: KR6s0064_P_028-bkkxmlele335, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9823, content: '', id: KR6s0064_P_028-bkkxmlele336, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 9828, content: '', id: KR6s0064_P_028-0848b, ed: P, 'n': 0848b, source_xml_id: P178.1611.0848b}
+  - {type: line-break, offset: 9828, content: '', id: KR6s0064_P_028-0848b01, ed: P, 'n': 0848b01}
+  - {type: xml-element, offset: 9838, content: '', id: lgP178p0848a0715_end, name: lg, role: close, attrs: {'xml:id': lgP178p0848a0715, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9838, content: '', id: lgP178p0848b0111, name: lg, role: open, attrs: {'xml:id': lgP178p0848b0111, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9838, content: ○, id: KR6s0064_P_028-bkkpn167}
+  - {type: line-break, offset: 9844, content: '', id: KR6s0064_P_028-0848b02, ed: P, 'n': 0848b02}
+  - {type: line-break, offset: 9861, content: '', id: KR6s0064_P_028-0848b03, ed: P, 'n': 0848b03}
+  - {type: xml-element, offset: 9874, content: '', id: KR6s0064_P_028-bkkxmlele337, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9875, content: '', id: KR6s0064_P_028-bkkxmlele338, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9878, content: '', id: KR6s0064_P_028-0848b04, ed: P, 'n': 0848b04}
+  - {type: xml-element, offset: 9890, content: '', id: lgP178p0848b0111_end, name: lg, role: close, attrs: {'xml:id': lgP178p0848b0111, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9890, content: '', id: lgP178p0848b0413, name: lg, role: open, attrs: {'xml:id': lgP178p0848b0413, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9890, content: ○, id: KR6s0064_P_028-bkkpn168}
+  - {type: line-break, offset: 9894, content: '', id: KR6s0064_P_028-0848b05, ed: P, 'n': 0848b05}
+  - {type: line-break, offset: 9911, content: '', id: KR6s0064_P_028-0848b06, ed: P, 'n': 0848b06}
+  - {type: xml-element, offset: 9918, content: '', id: KR6s0064_P_028-bkkxmlele339, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9919, content: '', id: KR6s0064_P_028-bkkxmlele340, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 9928, content: '', id: KR6s0064_P_028-0848b07, ed: P, 'n': 0848b07}
+  - {type: xml-element, offset: 9934, content: '', id: lgP178p0848b0413_end, name: lg, role: close, attrs: {'xml:id': lgP178p0848b0413, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 9934, content: '', id: lgP178p0848b0707, name: lg, role: open, attrs: {'xml:id': lgP178p0848b0707, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 9934, content: ○, id: KR6s0064_P_028-bkkpn169}
+  - {type: line-break, offset: 9944, content: '', id: KR6s0064_P_028-0848b08, ed: P, 'n': 0848b08}
+  - {type: line-break, offset: 9961, content: '', id: KR6s0064_P_028-0848b09, ed: P, 'n': 0848b09}
+  - {type: line-break, offset: 9978, content: '', id: KR6s0064_P_028-0848b10, ed: P, 'n': 0848b10}
+  - {type: xml-element, offset: 9986, content: '', id: KR6s0064_P_028-bkkxmlele341, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 9987, content: '', id: KR6s0064_P_028-bkkxmlele342, name: note, role: close, attrs: {place: inline}}
+  - {type: page-break, offset: 9995, content: '', id: KR6s0064_P_028-0849a, ed: P, 'n': 0849a, source_xml_id: P178.1611.0849a}
+  - {type: line-break, offset: 9995, content: '', id: KR6s0064_P_028-0849a01, ed: P, 'n': 0849a01}
+  - {type: xml-element, offset: 10002, content: '', id: lgP178p0848b0707_end, name: lg, role: close, attrs: {'xml:id': lgP178p0848b0707, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 10002, content: '', id: lgP178p0849a0108, name: lg, role: open, attrs: {'xml:id': lgP178p0849a0108, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 10002, content: ○, id: KR6s0064_P_028-bkkpn170}
+  - {type: line-break, offset: 10011, content: '', id: KR6s0064_P_028-0849a02, ed: P, 'n': 0849a02}
+  - {type: line-break, offset: 10028, content: '', id: KR6s0064_P_028-0849a03, ed: P, 'n': 0849a03}
+  - {type: line-break, offset: 10045, content: '', id: KR6s0064_P_028-0849a04, ed: P, 'n': 0849a04}
+  - {type: xml-element, offset: 10045, content: '', id: KR6s0064_P_028-bkkxmlele343, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 10046, content: '', id: KR6s0064_P_028-bkkxmlele344, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 10061, content: '', id: lgP178p0849a0108_end, name: lg, role: close, attrs: {'xml:id': lgP178p0849a0108, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 10061, content: '', id: lgP178p0849a0417, name: lg, role: open, attrs: {'xml:id': lgP178p0849a0417, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 10061, content: ○, id: KR6s0064_P_028-bkkpn171}
+  - {type: line-break, offset: 10061, content: '', id: KR6s0064_P_028-0849a05, ed: P, 'n': 0849a05}
+  - {type: line-break, offset: 10078, content: '', id: KR6s0064_P_028-0849a06, ed: P, 'n': 0849a06}
+  - {type: line-break, offset: 10095, content: '', id: KR6s0064_P_028-0849a07, ed: P, 'n': 0849a07}
+  - {type: line-break, offset: 10112, content: '', id: KR6s0064_P_028-0849a08, ed: P, 'n': 0849a08}
+  - {type: xml-element, offset: 10115, content: '', id: KR6s0064_P_028-bkkxmlele345, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 10116, content: '', id: KR6s0064_P_028-bkkxmlele346, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 10129, content: '', id: KR6s0064_P_028-0849a09, ed: P, 'n': 0849a09}
+  - {type: xml-element, offset: 10131, content: '', id: lgP178p0849a0417_end, name: lg, role: close, attrs: {'xml:id': lgP178p0849a0417, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 10131, content: '', id: lgP178p0849a0903, name: lg, role: open, attrs: {'xml:id': lgP178p0849a0903, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 10131, content: ○, id: KR6s0064_P_028-bkkpn172}
+  - {type: line-break, offset: 10145, content: '', id: KR6s0064_P_028-0849a10, ed: P, 'n': 0849a10}
+  - {type: page-break, offset: 10162, content: '', id: KR6s0064_P_028-0849b, ed: P, 'n': 0849b, source_xml_id: P178.1611.0849b}
+  - {type: line-break, offset: 10162, content: '', id: KR6s0064_P_028-0849b01, ed: P, 'n': 0849b01}
+  - {type: xml-element, offset: 10178, content: '', id: KR6s0064_P_028-bkkxmlele347, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 10179, content: '', id: KR6s0064_P_028-bkkxmlele348, name: note, role: close, attrs: {place: inline}}
+  - {type: line-break, offset: 10179, content: '', id: KR6s0064_P_028-0849b02, ed: P, 'n': 0849b02}
+  - {type: xml-element, offset: 10194, content: '', id: lgP178p0849a0903_end, name: lg, role: close, attrs: {'xml:id': lgP178p0849a0903, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: xml-element, offset: 10194, content: '', id: lgP178p0849b0216, name: lg, role: open, attrs: {'xml:id': lgP178p0849b0216, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: punctuation, offset: 10194, content: ○, id: KR6s0064_P_028-bkkpn173}
+  - {type: line-break, offset: 10195, content: '', id: KR6s0064_P_028-0849b03, ed: P, 'n': 0849b03}
+  - {type: line-break, offset: 10212, content: '', id: KR6s0064_P_028-0849b04, ed: P, 'n': 0849b04}
+  - {type: line-break, offset: 10229, content: '', id: KR6s0064_P_028-0849b05, ed: P, 'n': 0849b05}
+  - {type: xml-element, offset: 10230, content: '', id: KR6s0064_P_028-bkkxmlele349, name: note, role: open, attrs: {place: inline}}
+  - {type: xml-element, offset: 10231, content: '', id: KR6s0064_P_028-bkkxmlele350, name: note, role: close, attrs: {place: inline}}
+  - {type: xml-element, offset: 10246, content: '', id: lgP178p0849b0216_end, name: lg, role: close, attrs: {'xml:id': lgP178p0849b0216, style: 'margin-left:0em;text-indent:0em;'}}
+  - {type: line-break, offset: 10246, content: '', id: KR6s0064_P_028-0849b06, ed: P, 'n': 0849b06}
+  - {type: line-break, offset: 10246, content: '', id: KR6s0064_P_028-0849b07, ed: P, 'n': 0849b07}
+  - {type: line-break, offset: 10246, content: '', id: KR6s0064_P_028-0849b08, ed: P, 'n': 0849b08}
+  - {type: page-break, offset: 10246, content: '', id: KR6s0064_P_028-0851a, ed: P, 'n': 0851a, source_xml_id: P178.1611.0851a}
+  - {type: line-break, offset: 10246, content: '', id: KR6s0064_P_028-0851a01, ed: P, 'n': 0851a01}
+  back: []
+hash: sha256:bd966d596ce9a67d738ae320dbcbd58480ad158e60c9f527d03d67d3246fb658
